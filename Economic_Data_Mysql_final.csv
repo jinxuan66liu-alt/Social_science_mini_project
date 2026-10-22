@@ -1,0 +1,2401 @@
+,Series Name,Country Name,Year,value
+0,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2001 [YR2001],5.02
+1,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2001 [YR2001],3.8
+2,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2001 [YR2001],3.699
+3,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2001 [YR2001],2.76
+4,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2001 [YR2001],3.76
+5,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2001 [YR2001],3.53
+6,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2001 [YR2001],2.6
+7,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2001 [YR2001],8.61
+8,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2001 [YR2001],7.773
+9,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2001 [YR2001],4.696
+10,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2001 [YR2001],9.599
+11,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2001 [YR2001],3.738
+12,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2001 [YR2001],10.348
+13,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2001 [YR2001],4.73
+14,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2001 [YR2001],8.978
+15,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2001 [YR2001],4.731
+16,GDP growth (annual %),1,2001 [YR2001],0.284608556379041
+17,GDP growth (annual %),2,2001 [YR2001],8.32404695347056
+18,GDP growth (annual %),3,2001 [YR2001],4.72593560322356
+19,GDP growth (annual %),4,2001 [YR2001],6.19289331233377
+20,GDP growth (annual %),5,2001 [YR2001],-1.07086275100448
+21,GDP growth (annual %),6,2001 [YR2001],0.517675319192861
+22,GDP growth (annual %),7,2001 [YR2001],3.44424900968372
+23,GDP growth (annual %),8,2001 [YR2001],1.89946701186636
+24,GDP growth (annual %),9,2001 [YR2001],1.63614170690956
+25,GDP growth (annual %),10,2001 [YR2001],2.39102229602824
+26,GDP growth (annual %),11,2001 [YR2001],2.00643329837733
+27,GDP growth (annual %),12,2001 [YR2001],2.1634350595868
+28,GDP growth (annual %),13,2001 [YR2001],3.91908880808811
+29,GDP growth (annual %),14,2001 [YR2001],1.36080642694121
+30,GDP growth (annual %),15,2001 [YR2001],5.10005122572568
+31,GDP growth (annual %),16,2001 [YR2001],0.955538337599847
+32,"Central government debt, total (% of GDP)",1,2001 [YR2001],..
+33,"Central government debt, total (% of GDP)",2,2001 [YR2001],..
+34,"Central government debt, total (% of GDP)",3,2001 [YR2001],..
+35,"Central government debt, total (% of GDP)",4,2001 [YR2001],..
+36,"Central government debt, total (% of GDP)",5,2001 [YR2001],93.9363125102557
+37,"Central government debt, total (% of GDP)",6,2001 [YR2001],..
+38,"Central government debt, total (% of GDP)",7,2001 [YR2001],24.5783340358589
+39,"Central government debt, total (% of GDP)",8,2001 [YR2001],..
+40,"Central government debt, total (% of GDP)",9,2001 [YR2001],..
+41,"Central government debt, total (% of GDP)",10,2001 [YR2001],84.04178204707
+42,"Central government debt, total (% of GDP)",11,2001 [YR2001],..
+43,"Central government debt, total (% of GDP)",12,2001 [YR2001],..
+44,"Central government debt, total (% of GDP)",13,2001 [YR2001],51.9977631328672
+45,"Central government debt, total (% of GDP)",14,2001 [YR2001],..
+46,"Central government debt, total (% of GDP)",15,2001 [YR2001],48.9836153351704
+47,"Central government debt, total (% of GDP)",16,2001 [YR2001],52.6289015925168
+48,"Inflation, consumer prices (annual %)",1,2001 [YR2001],-0.740055504162737
+49,"Inflation, consumer prices (annual %)",2,2001 [YR2001],0.719125609120113
+50,"Inflation, consumer prices (annual %)",3,2001 [YR2001],4.06657587897792
+51,"Inflation, consumer prices (annual %)",4,2001 [YR2001],-0.43154451172818
+52,"Inflation, consumer prices (annual %)",5,2001 [YR2001],0.997197956155943
+53,"Inflation, consumer prices (annual %)",6,2001 [YR2001],1.41678473206098
+54,"Inflation, consumer prices (annual %)",7,2001 [YR2001],1.62690887314091
+55,"Inflation, consumer prices (annual %)",8,2001 [YR2001],1.63812454286363
+56,"Inflation, consumer prices (annual %)",9,2001 [YR2001],1.98385731334471
+57,"Inflation, consumer prices (annual %)",10,2001 [YR2001],1.53234960272417
+58,"Inflation, consumer prices (annual %)",11,2001 [YR2001],2.78516451905719
+59,"Inflation, consumer prices (annual %)",12,2001 [YR2001],2.9814420444174
+60,"Inflation, consumer prices (annual %)",13,2001 [YR2001],3.58983367750045
+61,"Inflation, consumer prices (annual %)",14,2001 [YR2001],2.4084230410097
+62,"Inflation, consumer prices (annual %)",15,2001 [YR2001],21.4770072117158
+63,"Inflation, consumer prices (annual %)",16,2001 [YR2001],2.82617111885407
+64,Gini index,1,2001 [YR2001],..
+65,Gini index,2,2001 [YR2001],..
+66,Gini index,3,2001 [YR2001],..
+67,Gini index,4,2001 [YR2001],..
+68,Gini index,5,2001 [YR2001],..
+69,Gini index,6,2001 [YR2001],..
+70,Gini index,7,2001 [YR2001],..
+71,Gini index,8,2001 [YR2001],32.5
+72,Gini index,9,2001 [YR2001],29.9
+73,Gini index,10,2001 [YR2001],37.1
+74,Gini index,11,2001 [YR2001],..
+75,Gini index,12,2001 [YR2001],..
+76,Gini index,13,2001 [YR2001],..
+77,Gini index,14,2001 [YR2001],26.5
+78,Gini index,15,2001 [YR2001],36.9
+79,Gini index,16,2001 [YR2001],40.6
+80,Proportion of people living below 50 percent of median income (%),1,2001 [YR2001],..
+81,Proportion of people living below 50 percent of median income (%),2,2001 [YR2001],..
+82,Proportion of people living below 50 percent of median income (%),3,2001 [YR2001],..
+83,Proportion of people living below 50 percent of median income (%),4,2001 [YR2001],..
+84,Proportion of people living below 50 percent of median income (%),5,2001 [YR2001],..
+85,Proportion of people living below 50 percent of median income (%),6,2001 [YR2001],..
+86,Proportion of people living below 50 percent of median income (%),7,2001 [YR2001],..
+87,Proportion of people living below 50 percent of median income (%),8,2001 [YR2001],11.5
+88,Proportion of people living below 50 percent of median income (%),9,2001 [YR2001],8.1
+89,Proportion of people living below 50 percent of median income (%),10,2001 [YR2001],12.1
+90,Proportion of people living below 50 percent of median income (%),11,2001 [YR2001],..
+91,Proportion of people living below 50 percent of median income (%),12,2001 [YR2001],..
+92,Proportion of people living below 50 percent of median income (%),13,2001 [YR2001],..
+93,Proportion of people living below 50 percent of median income (%),14,2001 [YR2001],5.5
+94,Proportion of people living below 50 percent of median income (%),15,2001 [YR2001],14
+95,Proportion of people living below 50 percent of median income (%),16,2001 [YR2001],17.5
+96,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2002 [YR2002],5.386
+97,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2002 [YR2002],4.24
+98,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2002 [YR2002],3.046
+99,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2002 [YR2002],2.12
+100,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2002 [YR2002],5.65
+101,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2002 [YR2002],3.48
+102,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2002 [YR2002],1.82
+103,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2002 [YR2002],8.702
+104,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2002 [YR2002],8.482
+105,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2002 [YR2002],5.037
+106,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2002 [YR2002],9.211
+107,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2002 [YR2002],4.022
+108,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2002 [YR2002],11.146
+109,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2002 [YR2002],4.965
+110,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2002 [YR2002],7.875
+111,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2002 [YR2002],5.783
+112,GDP growth (annual %),1,2002 [YR2002],0.0849888050363319
+113,GDP growth (annual %),2,2002 [YR2002],9.23604870383861
+114,GDP growth (annual %),3,2002 [YR2002],7.74399895319569
+115,GDP growth (annual %),4,2002 [YR2002],6.32082099160833
+116,GDP growth (annual %),5,2002 [YR2002],3.92336076702013
+117,GDP growth (annual %),6,2002 [YR2002],5.39098830692797
+118,GDP growth (annual %),7,2002 [YR2002],6.14903605210036
+119,GDP growth (annual %),8,2002 [YR2002],1.06775027069419
+120,GDP growth (annual %),9,2002 [YR2002],-0.228255715793637
+121,GDP growth (annual %),10,2002 [YR2002],1.70902736258567
+122,GDP growth (annual %),11,2002 [YR2002],0.26992966378873
+123,GDP growth (annual %),12,2002 [YR2002],1.45747886087304
+124,GDP growth (annual %),13,2002 [YR2002],2.75545611564098
+125,GDP growth (annual %),14,2002 [YR2002],2.27772867861897
+126,GDP growth (annual %),15,2002 [YR2002],4.69999190914258
+127,GDP growth (annual %),16,2002 [YR2002],1.70044733078285
+128,"Central government debt, total (% of GDP)",1,2002 [YR2002],..
+129,"Central government debt, total (% of GDP)",2,2002 [YR2002],..
+130,"Central government debt, total (% of GDP)",3,2002 [YR2002],..
+131,"Central government debt, total (% of GDP)",4,2002 [YR2002],..
+132,"Central government debt, total (% of GDP)",5,2002 [YR2002],106.332540928351
+133,"Central government debt, total (% of GDP)",6,2002 [YR2002],43.047339208221
+134,"Central government debt, total (% of GDP)",7,2002 [YR2002],30.0703562721572
+135,"Central government debt, total (% of GDP)",8,2002 [YR2002],..
+136,"Central government debt, total (% of GDP)",9,2002 [YR2002],..
+137,"Central government debt, total (% of GDP)",10,2002 [YR2002],86.1686223366587
+138,"Central government debt, total (% of GDP)",11,2002 [YR2002],..
+139,"Central government debt, total (% of GDP)",12,2002 [YR2002],..
+140,"Central government debt, total (% of GDP)",13,2002 [YR2002],50.1525230848091
+141,"Central government debt, total (% of GDP)",14,2002 [YR2002],..
+142,"Central government debt, total (% of GDP)",15,2002 [YR2002],41.3527168644107
+143,"Central government debt, total (% of GDP)",16,2002 [YR2002],54.0472378898626
+144,"Inflation, consumer prices (annual %)",1,2002 [YR2002],-0.92349402694232
+145,"Inflation, consumer prices (annual %)",2,2002 [YR2002],-0.731970902350243
+146,"Inflation, consumer prices (annual %)",3,2002 [YR2002],2.76226210296599
+147,"Inflation, consumer prices (annual %)",4,2002 [YR2002],3.83082838168467
+148,"Inflation, consumer prices (annual %)",5,2002 [YR2002],-0.391676866585049
+149,"Inflation, consumer prices (annual %)",6,2002 [YR2002],1.80787246281536
+150,"Inflation, consumer prices (annual %)",7,2002 [YR2002],0.697308976625448
+151,"Inflation, consumer prices (annual %)",8,2002 [YR2002],1.92190776331623
+152,"Inflation, consumer prices (annual %)",9,2002 [YR2002],1.42080615551526
+153,"Inflation, consumer prices (annual %)",10,2002 [YR2002],1.52040245947455
+154,"Inflation, consumer prices (annual %)",11,2002 [YR2002],2.46532018051998
+155,"Inflation, consumer prices (annual %)",12,2002 [YR2002],1.29985228951258
+156,"Inflation, consumer prices (annual %)",13,2002 [YR2002],3.06545608883828
+157,"Inflation, consumer prices (annual %)",14,2002 [YR2002],2.15684836035507
+158,"Inflation, consumer prices (annual %)",15,2002 [YR2002],15.7887307914462
+159,"Inflation, consumer prices (annual %)",16,2002 [YR2002],1.58603162650601
+160,Gini index,1,2002 [YR2002],..
+161,Gini index,2,2002 [YR2002],42
+162,Gini index,3,2002 [YR2002],..
+163,Gini index,4,2002 [YR2002],37
+164,Gini index,5,2002 [YR2002],..
+165,Gini index,6,2002 [YR2002],..
+166,Gini index,7,2002 [YR2002],41.9
+167,Gini index,8,2002 [YR2002],31.8
+168,Gini index,9,2002 [YR2002],29.9
+169,Gini index,10,2002 [YR2002],35.1
+170,Gini index,11,2002 [YR2002],34.7
+171,Gini index,12,2002 [YR2002],..
+172,Gini index,13,2002 [YR2002],..
+173,Gini index,14,2002 [YR2002],26.2
+174,Gini index,15,2002 [YR2002],37.3
+175,Gini index,16,2002 [YR2002],40.4
+176,Proportion of people living below 50 percent of median income (%),1,2002 [YR2002],..
+177,Proportion of people living below 50 percent of median income (%),2,2002 [YR2002],17.2
+178,Proportion of people living below 50 percent of median income (%),3,2002 [YR2002],..
+179,Proportion of people living below 50 percent of median income (%),4,2002 [YR2002],8
+180,Proportion of people living below 50 percent of median income (%),5,2002 [YR2002],..
+181,Proportion of people living below 50 percent of median income (%),6,2002 [YR2002],..
+182,Proportion of people living below 50 percent of median income (%),7,2002 [YR2002],12.9
+183,Proportion of people living below 50 percent of median income (%),8,2002 [YR2002],10.4
+184,Proportion of people living below 50 percent of median income (%),9,2002 [YR2002],7.9
+185,Proportion of people living below 50 percent of median income (%),10,2002 [YR2002],12
+186,Proportion of people living below 50 percent of median income (%),11,2002 [YR2002],15.2
+187,Proportion of people living below 50 percent of median income (%),12,2002 [YR2002],..
+188,Proportion of people living below 50 percent of median income (%),13,2002 [YR2002],..
+189,Proportion of people living below 50 percent of median income (%),14,2002 [YR2002],6.3
+190,Proportion of people living below 50 percent of median income (%),15,2002 [YR2002],13.4
+191,Proportion of people living below 50 percent of median income (%),16,2002 [YR2002],18.1
+192,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2003 [YR2003],5.251
+193,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2003 [YR2003],4.58
+194,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2003 [YR2003],3.348
+195,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2003 [YR2003],2.25
+196,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2003 [YR2003],5.93
+197,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2003 [YR2003],3.61
+198,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2003 [YR2003],1.54
+199,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2003 [YR2003],8.306
+200,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2003 [YR2003],9.779
+201,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2003 [YR2003],4.807
+202,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2003 [YR2003],8.869
+203,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2003 [YR2003],4.221
+204,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2003 [YR2003],11.283
+205,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2003 [YR2003],5.555
+206,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2003 [YR2003],8.21
+207,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2003 [YR2003],5.989
+208,GDP growth (annual %),1,2003 [YR2003],1.38010935830795
+209,GDP growth (annual %),2,2003 [YR2003],10.1138119025242
+210,GDP growth (annual %),3,2003 [YR2003],3.07472661826947
+211,GDP growth (annual %),4,2003 [YR2003],6.89906349055258
+212,GDP growth (annual %),5,2003 [YR2003],4.54825542643229
+213,GDP growth (annual %),6,2003 [YR2003],5.7884992858875
+214,GDP growth (annual %),7,2003 [YR2003],7.18924330340971
+215,GDP growth (annual %),8,2003 [YR2003],0.967827182558352
+216,GDP growth (annual %),9,2003 [YR2003],-0.529801394291297
+217,GDP growth (annual %),10,2003 [YR2003],3.21851612669614
+218,GDP growth (annual %),11,2003 [YR2003],0.0665538088732092
+219,GDP growth (annual %),12,2003 [YR2003],1.09635781210122
+220,GDP growth (annual %),13,2003 [YR2003],2.9392895953076
+221,GDP growth (annual %),14,2003 [YR2003],1.88102769675844
+222,GDP growth (annual %),15,2003 [YR2003],7.29995234528189
+223,GDP growth (annual %),16,2003 [YR2003],2.79560596378604
+224,"Central government debt, total (% of GDP)",1,2003 [YR2003],..
+225,"Central government debt, total (% of GDP)",2,2003 [YR2003],..
+226,"Central government debt, total (% of GDP)",3,2003 [YR2003],..
+227,"Central government debt, total (% of GDP)",4,2003 [YR2003],..
+228,"Central government debt, total (% of GDP)",5,2003 [YR2003],108.589983770079
+229,"Central government debt, total (% of GDP)",6,2003 [YR2003],45.0766412986635
+230,"Central government debt, total (% of GDP)",7,2003 [YR2003],27.0460183720806
+231,"Central government debt, total (% of GDP)",8,2003 [YR2003],..
+232,"Central government debt, total (% of GDP)",9,2003 [YR2003],..
+233,"Central government debt, total (% of GDP)",10,2003 [YR2003],86.4073086616893
+234,"Central government debt, total (% of GDP)",11,2003 [YR2003],..
+235,"Central government debt, total (% of GDP)",12,2003 [YR2003],..
+236,"Central government debt, total (% of GDP)",13,2003 [YR2003],45.4755013109904
+237,"Central government debt, total (% of GDP)",14,2003 [YR2003],..
+238,"Central government debt, total (% of GDP)",15,2003 [YR2003],..
+239,"Central government debt, total (% of GDP)",16,2003 [YR2003],56.4292429155629
+240,"Inflation, consumer prices (annual %)",1,2003 [YR2003],-0.256541816316024
+241,"Inflation, consumer prices (annual %)",2,2003 [YR2003],1.12760348729637
+242,"Inflation, consumer prices (annual %)",3,2003 [YR2003],3.51487451459939
+243,"Inflation, consumer prices (annual %)",4,2003 [YR2003],3.23464817293925
+244,"Inflation, consumer prices (annual %)",5,2003 [YR2003],0.50790530023755
+245,"Inflation, consumer prices (annual %)",6,2003 [YR2003],1.08967632577286
+246,"Inflation, consumer prices (annual %)",7,2003 [YR2003],1.80434994635718
+247,"Inflation, consumer prices (annual %)",8,2003 [YR2003],2.0987023105203
+248,"Inflation, consumer prices (annual %)",9,2003 [YR2003],1.03422218628562
+249,"Inflation, consumer prices (annual %)",10,2003 [YR2003],1.37650038542013
+250,"Inflation, consumer prices (annual %)",11,2003 [YR2003],2.67255838513313
+251,"Inflation, consumer prices (annual %)",12,2003 [YR2003],2.5080198308545
+252,"Inflation, consumer prices (annual %)",13,2003 [YR2003],3.03913607750866
+253,"Inflation, consumer prices (annual %)",14,2003 [YR2003],1.91946652987946
+254,"Inflation, consumer prices (annual %)",15,2003 [YR2003],13.6632930228665
+255,"Inflation, consumer prices (annual %)",16,2003 [YR2003],2.27009497336114
+256,Gini index,1,2003 [YR2003],..
+257,Gini index,2,2003 [YR2003],..
+258,Gini index,3,2003 [YR2003],..
+259,Gini index,4,2003 [YR2003],..
+260,Gini index,5,2003 [YR2003],..
+261,Gini index,6,2003 [YR2003],46.4
+262,Gini index,7,2003 [YR2003],..
+263,Gini index,8,2003 [YR2003],31.4
+264,Gini index,9,2003 [YR2003],29.9
+265,Gini index,10,2003 [YR2003],34.9
+266,Gini index,11,2003 [YR2003],34.9
+267,Gini index,12,2003 [YR2003],27.6
+268,Gini index,13,2003 [YR2003],31.8
+269,Gini index,14,2003 [YR2003],25.3
+270,Gini index,15,2003 [YR2003],40
+271,Gini index,16,2003 [YR2003],40.8
+272,Proportion of people living below 50 percent of median income (%),1,2003 [YR2003],..
+273,Proportion of people living below 50 percent of median income (%),2,2003 [YR2003],..
+274,Proportion of people living below 50 percent of median income (%),3,2003 [YR2003],..
+275,Proportion of people living below 50 percent of median income (%),4,2003 [YR2003],..
+276,Proportion of people living below 50 percent of median income (%),5,2003 [YR2003],..
+277,Proportion of people living below 50 percent of median income (%),6,2003 [YR2003],20
+278,Proportion of people living below 50 percent of median income (%),7,2003 [YR2003],..
+279,Proportion of people living below 50 percent of median income (%),8,2003 [YR2003],8.9
+280,Proportion of people living below 50 percent of median income (%),9,2003 [YR2003],8.2
+281,Proportion of people living below 50 percent of median income (%),10,2003 [YR2003],12
+282,Proportion of people living below 50 percent of median income (%),11,2003 [YR2003],13.5
+283,Proportion of people living below 50 percent of median income (%),12,2003 [YR2003],5.8
+284,Proportion of people living below 50 percent of median income (%),13,2003 [YR2003],13.2
+285,Proportion of people living below 50 percent of median income (%),14,2003 [YR2003],7.2
+286,Proportion of people living below 50 percent of median income (%),15,2003 [YR2003],15
+287,Proportion of people living below 50 percent of median income (%),16,2003 [YR2003],17.9
+288,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2004 [YR2004],4.734
+289,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2004 [YR2004],4.49
+290,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2004 [YR2004],3.42
+291,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2004 [YR2004],2.14
+292,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2004 [YR2004],5.84
+293,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2004 [YR2004],3.54
+294,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2004 [YR2004],1.51
+295,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2004 [YR2004],8.914
+296,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2004 [YR2004],10.727
+297,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2004 [YR2004],4.594
+298,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2004 [YR2004],7.866
+299,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2004 [YR2004],4.256
+300,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2004 [YR2004],11.09
+301,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2004 [YR2004],6.693
+302,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2004 [YR2004],7.763
+303,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2004 [YR2004],5.529
+304,GDP growth (annual %),1,2004 [YR2004],2.11294823723127
+305,GDP growth (annual %),2,2004 [YR2004],10.1404291872206
+306,GDP growth (annual %),3,2004 [YR2004],5.1836368597334
+307,GDP growth (annual %),4,2004 [YR2004],7.53641060890386
+308,GDP growth (annual %),5,2004 [YR2004],9.93998268434957
+309,GDP growth (annual %),6,2004 [YR2004],6.78343772370305
+310,GDP growth (annual %),7,2004 [YR2004],6.28934214285795
+311,GDP growth (annual %),8,2004 [YR2004],2.86825052501032
+312,GDP growth (annual %),9,2004 [YR2004],1.16208684507278
+313,GDP growth (annual %),10,2004 [YR2004],2.32601853325993
+314,GDP growth (annual %),11,2004 [YR2004],1.4740217064723
+315,GDP growth (annual %),12,2004 [YR2004],4.33015597691212
+316,GDP growth (annual %),13,2004 [YR2004],3.1145314799161
+317,GDP growth (annual %),14,2004 [YR2004],4.17958419343711
+318,GDP growth (annual %),15,2004 [YR2004],7.19994786954857
+319,GDP growth (annual %),16,2004 [YR2004],3.84777169267127
+320,"Central government debt, total (% of GDP)",1,2004 [YR2004],..
+321,"Central government debt, total (% of GDP)",2,2004 [YR2004],..
+322,"Central government debt, total (% of GDP)",3,2004 [YR2004],..
+323,"Central government debt, total (% of GDP)",4,2004 [YR2004],..
+324,"Central government debt, total (% of GDP)",5,2004 [YR2004],101.779018993689
+325,"Central government debt, total (% of GDP)",6,2004 [YR2004],45.6966383151073
+326,"Central government debt, total (% of GDP)",7,2004 [YR2004],24.3963998008709
+327,"Central government debt, total (% of GDP)",8,2004 [YR2004],..
+328,"Central government debt, total (% of GDP)",9,2004 [YR2004],..
+329,"Central government debt, total (% of GDP)",10,2004 [YR2004],90.2045973945536
+330,"Central government debt, total (% of GDP)",11,2004 [YR2004],..
+331,"Central government debt, total (% of GDP)",12,2004 [YR2004],..
+332,"Central government debt, total (% of GDP)",13,2004 [YR2004],43.4376841299849
+333,"Central government debt, total (% of GDP)",14,2004 [YR2004],..
+334,"Central government debt, total (% of GDP)",15,2004 [YR2004],..
+335,"Central government debt, total (% of GDP)",16,2004 [YR2004],56.8322960522202
+336,"Inflation, consumer prices (annual %)",1,2004 [YR2004],-0.00857338820310271
+337,"Inflation, consumer prices (annual %)",2,2004 [YR2004],3.82463743108159
+338,"Inflation, consumer prices (annual %)",3,2004 [YR2004],3.59066298882577
+339,"Inflation, consumer prices (annual %)",4,2004 [YR2004],7.75494748709606
+340,"Inflation, consumer prices (annual %)",5,2004 [YR2004],1.66272719863071
+341,"Inflation, consumer prices (annual %)",6,2004 [YR2004],1.42127115937402
+342,"Inflation, consumer prices (annual %)",7,2004 [YR2004],2.75914926231082
+343,"Inflation, consumer prices (annual %)",8,2004 [YR2004],2.14617860975319
+344,"Inflation, consumer prices (annual %)",9,2004 [YR2004],1.66573696655991
+345,"Inflation, consumer prices (annual %)",10,2004 [YR2004],1.39039756680421
+346,"Inflation, consumer prices (annual %)",11,2004 [YR2004],2.20673587792447
+347,"Inflation, consumer prices (annual %)",12,2004 [YR2004],0.455192034139375
+348,"Inflation, consumer prices (annual %)",13,2004 [YR2004],3.03948378753384
+349,"Inflation, consumer prices (annual %)",14,2004 [YR2004],0.374448895778391
+350,"Inflation, consumer prices (annual %)",15,2004 [YR2004],10.8886157326215
+351,"Inflation, consumer prices (annual %)",16,2004 [YR2004],2.67723669309171
+352,Gini index,1,2004 [YR2004],..
+353,Gini index,2,2004 [YR2004],..
+354,Gini index,3,2004 [YR2004],..
+355,Gini index,4,2004 [YR2004],36.8
+356,Gini index,5,2004 [YR2004],..
+357,Gini index,6,2004 [YR2004],..
+358,Gini index,7,2004 [YR2004],42.5
+359,Gini index,8,2004 [YR2004],30.6
+360,Gini index,9,2004 [YR2004],30.1
+361,Gini index,10,2004 [YR2004],34.8
+362,Gini index,11,2004 [YR2004],34.3
+363,Gini index,12,2004 [YR2004],31.6
+364,Gini index,13,2004 [YR2004],33.3
+365,Gini index,14,2004 [YR2004],26.1
+366,Gini index,15,2004 [YR2004],40.3
+367,Gini index,16,2004 [YR2004],40.5
+368,Proportion of people living below 50 percent of median income (%),1,2004 [YR2004],..
+369,Proportion of people living below 50 percent of median income (%),2,2004 [YR2004],..
+370,Proportion of people living below 50 percent of median income (%),3,2004 [YR2004],..
+371,Proportion of people living below 50 percent of median income (%),4,2004 [YR2004],10.5
+372,Proportion of people living below 50 percent of median income (%),5,2004 [YR2004],..
+373,Proportion of people living below 50 percent of median income (%),6,2004 [YR2004],..
+374,Proportion of people living below 50 percent of median income (%),7,2004 [YR2004],13.7
+375,Proportion of people living below 50 percent of median income (%),8,2004 [YR2004],8.8
+376,Proportion of people living below 50 percent of median income (%),9,2004 [YR2004],8.5
+377,Proportion of people living below 50 percent of median income (%),10,2004 [YR2004],11.6
+378,Proportion of people living below 50 percent of median income (%),11,2004 [YR2004],13.3
+379,Proportion of people living below 50 percent of median income (%),12,2004 [YR2004],5.9
+380,Proportion of people living below 50 percent of median income (%),13,2004 [YR2004],13.1
+381,Proportion of people living below 50 percent of median income (%),14,2004 [YR2004],6.8
+382,Proportion of people living below 50 percent of median income (%),15,2004 [YR2004],15.4
+383,Proportion of people living below 50 percent of median income (%),16,2004 [YR2004],17.6
+384,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2005 [YR2005],4.446
+385,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2005 [YR2005],4.52
+386,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2005 [YR2005],3.482
+387,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2005 [YR2005],2.078
+388,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2005 [YR2005],5.59
+389,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2005 [YR2005],3.53
+390,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2005 [YR2005],1.35
+391,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2005 [YR2005],8.882
+392,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2005 [YR2005],11.193
+393,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2005 [YR2005],4.884
+394,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2005 [YR2005],7.73
+395,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2005 [YR2005],4.381
+396,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2005 [YR2005],9.146
+397,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2005 [YR2005],7.81
+398,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2005 [YR2005],7.124
+399,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2005 [YR2005],5.084
+400,GDP growth (annual %),1,2005 [YR2005],1.8482813374834
+401,GDP growth (annual %),2,2005 [YR2005],11.4535130030645
+402,GDP growth (annual %),3,2005 [YR2005],4.35823667337156
+403,GDP growth (annual %),4,2005 [YR2005],7.54724772895918
+404,GDP growth (annual %),5,2005 [YR2005],7.36632239250758
+405,GDP growth (annual %),6,2005 [YR2005],5.33213916141486
+406,GDP growth (annual %),7,2005 [YR2005],4.18763842884337
+407,GDP growth (annual %),8,2005 [YR2005],1.88856584109286
+408,GDP growth (annual %),9,2005 [YR2005],0.885485292551564
+409,GDP growth (annual %),10,2005 [YR2005],2.7906547174688
+410,GDP growth (annual %),11,2005 [YR2005],0.762410677306491
+411,GDP growth (annual %),12,2005 [YR2005],2.96973597025936
+412,GDP growth (annual %),13,2005 [YR2005],3.5512255846125
+413,GDP growth (annual %),14,2005 [YR2005],2.79313782840156
+414,GDP growth (annual %),15,2005 [YR2005],6.39996544799469
+415,GDP growth (annual %),16,2005 [YR2005],3.48354993710312
+416,"Central government debt, total (% of GDP)",1,2005 [YR2005],..
+417,"Central government debt, total (% of GDP)",2,2005 [YR2005],..
+418,"Central government debt, total (% of GDP)",3,2005 [YR2005],..
+419,"Central government debt, total (% of GDP)",4,2005 [YR2005],..
+420,"Central government debt, total (% of GDP)",5,2005 [YR2005],94.9666937754733
+421,"Central government debt, total (% of GDP)",6,2005 [YR2005],42.0675597614326
+422,"Central government debt, total (% of GDP)",7,2005 [YR2005],25.4581282780769
+423,"Central government debt, total (% of GDP)",8,2005 [YR2005],..
+424,"Central government debt, total (% of GDP)",9,2005 [YR2005],..
+425,"Central government debt, total (% of GDP)",10,2005 [YR2005],91.8639528693767
+426,"Central government debt, total (% of GDP)",11,2005 [YR2005],..
+427,"Central government debt, total (% of GDP)",12,2005 [YR2005],..
+428,"Central government debt, total (% of GDP)",13,2005 [YR2005],40.2343199754081
+429,"Central government debt, total (% of GDP)",14,2005 [YR2005],..
+430,"Central government debt, total (% of GDP)",15,2005 [YR2005],16.6608684477983
+431,"Central government debt, total (% of GDP)",16,2005 [YR2005],56.6929850051349
+432,"Inflation, consumer prices (annual %)",1,2005 [YR2005],-0.28294606876439
+433,"Inflation, consumer prices (annual %)",2,2005 [YR2005],1.7764140766757
+434,"Inflation, consumer prices (annual %)",3,2005 [YR2005],2.75379162735039
+435,"Inflation, consumer prices (annual %)",4,2005 [YR2005],8.28457243128667
+436,"Inflation, consumer prices (annual %)",5,2005 [YR2005],0.425106276569106
+437,"Inflation, consumer prices (annual %)",6,2005 [YR2005],2.97507092684449
+438,"Inflation, consumer prices (annual %)",7,2005 [YR2005],4.54036919634536
+439,"Inflation, consumer prices (annual %)",8,2005 [YR2005],1.74156647601258
+440,"Inflation, consumer prices (annual %)",9,2005 [YR2005],1.54691114751328
+441,"Inflation, consumer prices (annual %)",10,2005 [YR2005],2.08913649025069
+442,"Inflation, consumer prices (annual %)",11,2005 [YR2005],1.98529516361205
+443,"Inflation, consumer prices (annual %)",12,2005 [YR2005],1.51515151515153
+444,"Inflation, consumer prices (annual %)",13,2005 [YR2005],3.36831426094891
+445,"Inflation, consumer prices (annual %)",14,2005 [YR2005],0.452275416675049
+446,"Inflation, consumer prices (annual %)",15,2005 [YR2005],12.6853039507349
+447,"Inflation, consumer prices (annual %)",16,2005 [YR2005],3.3927468454955
+448,Gini index,1,2005 [YR2005],..
+449,Gini index,2,2005 [YR2005],40.9
+450,Gini index,3,2005 [YR2005],..
+451,Gini index,4,2005 [YR2005],..
+452,Gini index,5,2005 [YR2005],..
+453,Gini index,6,2005 [YR2005],..
+454,Gini index,7,2005 [YR2005],..
+455,Gini index,8,2005 [YR2005],29.8
+456,Gini index,9,2005 [YR2005],31.6
+457,Gini index,10,2005 [YR2005],35.5
+458,Gini index,11,2005 [YR2005],33.8
+459,Gini index,12,2005 [YR2005],30.6
+460,Gini index,13,2005 [YR2005],32.4
+461,Gini index,14,2005 [YR2005],26.8
+462,Gini index,15,2005 [YR2005],41.3
+463,Gini index,16,2005 [YR2005],41.3
+464,Proportion of people living below 50 percent of median income (%),1,2005 [YR2005],..
+465,Proportion of people living below 50 percent of median income (%),2,2005 [YR2005],16.2
+466,Proportion of people living below 50 percent of median income (%),3,2005 [YR2005],..
+467,Proportion of people living below 50 percent of median income (%),4,2005 [YR2005],..
+468,Proportion of people living below 50 percent of median income (%),5,2005 [YR2005],..
+469,Proportion of people living below 50 percent of median income (%),6,2005 [YR2005],..
+470,Proportion of people living below 50 percent of median income (%),7,2005 [YR2005],..
+471,Proportion of people living below 50 percent of median income (%),8,2005 [YR2005],8.6
+472,Proportion of people living below 50 percent of median income (%),9,2005 [YR2005],8.7
+473,Proportion of people living below 50 percent of median income (%),10,2005 [YR2005],12.6
+474,Proportion of people living below 50 percent of median income (%),11,2005 [YR2005],14.1
+475,Proportion of people living below 50 percent of median income (%),12,2005 [YR2005],6.3
+476,Proportion of people living below 50 percent of median income (%),13,2005 [YR2005],13
+477,Proportion of people living below 50 percent of median income (%),14,2005 [YR2005],8.5
+478,Proportion of people living below 50 percent of median income (%),15,2005 [YR2005],15.2
+479,Proportion of people living below 50 percent of median income (%),16,2005 [YR2005],17.7
+480,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2006 [YR2006],4.192
+481,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2006 [YR2006],4.43
+482,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2006 [YR2006],3.254
+483,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2006 [YR2006],2.046
+484,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2006 [YR2006],4.48
+485,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2006 [YR2006],3.32
+486,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2006 [YR2006],1.22
+487,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2006 [YR2006],8.832
+488,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2006 [YR2006],10.277
+489,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2006 [YR2006],5.472
+490,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2006 [YR2006],6.777
+491,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2006 [YR2006],3.397
+492,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2006 [YR2006],8.452
+493,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2006 [YR2006],7.066
+494,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2006 [YR2006],7.055
+495,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2006 [YR2006],4.623
+496,GDP growth (annual %),1,2006 [YR2006],1.54630843078741
+497,GDP growth (annual %),2,2006 [YR2006],12.6752842281595
+498,GDP growth (annual %),3,2006 [YR2006],5.24500550580342
+499,GDP growth (annual %),4,2006 [YR2006],6.97795481056711
+500,GDP growth (annual %),5,2006 [YR2006],9.00676607871758
+501,GDP growth (annual %),6,2006 [YR2006],5.5848470671515
+502,GDP growth (annual %),7,2006 [YR2006],4.96781089246107
+503,GDP growth (annual %),8,2006 [YR2006],2.71406448755236
+504,GDP growth (annual %),9,2006 [YR2006],3.86668241523209
+505,GDP growth (annual %),10,2006 [YR2006],2.18982132415704
+506,GDP growth (annual %),11,2006 [YR2006],1.79947992234244
+507,GDP growth (annual %),12,2006 [YR2006],2.84726376691944
+508,GDP growth (annual %),13,2006 [YR2006],4.04343515605099
+509,GDP growth (annual %),14,2006 [YR2006],4.67607488877992
+510,GDP growth (annual %),15,2006 [YR2006],8.20006825456321
+511,GDP growth (annual %),16,2006 [YR2006],2.78453963674239
+512,"Central government debt, total (% of GDP)",1,2006 [YR2006],..
+513,"Central government debt, total (% of GDP)",2,2006 [YR2006],..
+514,"Central government debt, total (% of GDP)",3,2006 [YR2006],..
+515,"Central government debt, total (% of GDP)",4,2006 [YR2006],..
+516,"Central government debt, total (% of GDP)",5,2006 [YR2006],82.8374805427534
+517,"Central government debt, total (% of GDP)",6,2006 [YR2006],40.5883961366256
+518,"Central government debt, total (% of GDP)",7,2006 [YR2006],24.3806591494652
+519,"Central government debt, total (% of GDP)",8,2006 [YR2006],..
+520,"Central government debt, total (% of GDP)",9,2006 [YR2006],..
+521,"Central government debt, total (% of GDP)",10,2006 [YR2006],91.788062892401
+522,"Central government debt, total (% of GDP)",11,2006 [YR2006],..
+523,"Central government debt, total (% of GDP)",12,2006 [YR2006],..
+524,"Central government debt, total (% of GDP)",13,2006 [YR2006],35.7479971637415
+525,"Central government debt, total (% of GDP)",14,2006 [YR2006],..
+526,"Central government debt, total (% of GDP)",15,2006 [YR2006],9.89107286046746
+527,"Central government debt, total (% of GDP)",16,2006 [YR2006],55.6206495230784
+528,"Inflation, consumer prices (annual %)",1,2006 [YR2006],0.249355116079084
+529,"Inflation, consumer prices (annual %)",2,2006 [YR2006],1.64943099455859
+530,"Inflation, consumer prices (annual %)",3,2006 [YR2006],2.2423402851892
+531,"Inflation, consumer prices (annual %)",4,2006 [YR2006],7.41801715108469
+532,"Inflation, consumer prices (annual %)",5,2006 [YR2006],0.965657519018511
+533,"Inflation, consumer prices (annual %)",6,2006 [YR2006],3.60923564224389
+534,"Inflation, consumer prices (annual %)",7,2006 [YR2006],4.63747436011763
+535,"Inflation, consumer prices (annual %)",8,2006 [YR2006],1.67618916500309
+536,"Inflation, consumer prices (annual %)",9,2006 [YR2006],1.57742642840563
+537,"Inflation, consumer prices (annual %)",10,2006 [YR2006],2.4556616643929
+538,"Inflation, consumer prices (annual %)",11,2006 [YR2006],2.09084154117072
+539,"Inflation, consumer prices (annual %)",12,2006 [YR2006],2.30157623099456
+540,"Inflation, consumer prices (annual %)",13,2006 [YR2006],3.51581026918125
+541,"Inflation, consumer prices (annual %)",14,2006 [YR2006],1.36070041629642
+542,"Inflation, consumer prices (annual %)",15,2006 [YR2006],9.66865454789264
+543,"Inflation, consumer prices (annual %)",16,2006 [YR2006],3.22594410070404
+544,Gini index,1,2006 [YR2006],..
+545,Gini index,2,2006 [YR2006],..
+546,Gini index,3,2006 [YR2006],31.7
+547,Gini index,4,2006 [YR2006],35.8
+548,Gini index,5,2006 [YR2006],..
+549,Gini index,6,2006 [YR2006],44.8
+550,Gini index,7,2006 [YR2006],41.8
+551,Gini index,8,2006 [YR2006],29.7
+552,Gini index,9,2006 [YR2006],31
+553,Gini index,10,2006 [YR2006],35.9
+554,Gini index,11,2006 [YR2006],33.7
+555,Gini index,12,2006 [YR2006],26.4
+556,Gini index,13,2006 [YR2006],33.5
+557,Gini index,14,2006 [YR2006],26.4
+558,Gini index,15,2006 [YR2006],41
+559,Gini index,16,2006 [YR2006],41.7
+560,Proportion of people living below 50 percent of median income (%),1,2006 [YR2006],..
+561,Proportion of people living below 50 percent of median income (%),2,2006 [YR2006],..
+562,Proportion of people living below 50 percent of median income (%),3,2006 [YR2006],12.8
+563,Proportion of people living below 50 percent of median income (%),4,2006 [YR2006],11.6
+564,Proportion of people living below 50 percent of median income (%),5,2006 [YR2006],..
+565,Proportion of people living below 50 percent of median income (%),6,2006 [YR2006],19
+566,Proportion of people living below 50 percent of median income (%),7,2006 [YR2006],15
+567,Proportion of people living below 50 percent of median income (%),8,2006 [YR2006],9.3
+568,Proportion of people living below 50 percent of median income (%),9,2006 [YR2006],8.6
+569,Proportion of people living below 50 percent of median income (%),10,2006 [YR2006],12.4
+570,Proportion of people living below 50 percent of median income (%),11,2006 [YR2006],13.4
+571,Proportion of people living below 50 percent of median income (%),12,2006 [YR2006],8
+572,Proportion of people living below 50 percent of median income (%),13,2006 [YR2006],14
+573,Proportion of people living below 50 percent of median income (%),14,2006 [YR2006],7.3
+574,Proportion of people living below 50 percent of median income (%),15,2006 [YR2006],15.5
+575,Proportion of people living below 50 percent of median income (%),16,2006 [YR2006],17.9
+576,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2007 [YR2007],3.888
+577,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2007 [YR2007],4.35
+578,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2007 [YR2007],3.013
+579,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2007 [YR2007],2.026
+580,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2007 [YR2007],3.9
+581,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2007 [YR2007],3.31
+582,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2007 [YR2007],1.18
+583,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2007 [YR2007],8.008
+584,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2007 [YR2007],8.732
+585,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2007 [YR2007],5.399
+586,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2007 [YR2007],6.076
+587,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2007 [YR2007],2.493
+588,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2007 [YR2007],8.232
+589,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2007 [YR2007],6.161
+590,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2007 [YR2007],6.002
+591,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2007 [YR2007],4.622
+592,GDP growth (annual %),1,2007 [YR2007],1.72837912865577
+593,GDP growth (annual %),2,2007 [YR2007],14.1507710506103
+594,GDP growth (annual %),3,2007 [YR2007],5.8419633918717
+595,GDP growth (annual %),4,2007 [YR2007],7.12950448605439
+596,GDP growth (annual %),5,2007 [YR2007],9.02151951268893
+597,GDP growth (annual %),6,2007 [YR2007],6.29878592740947
+598,GDP growth (annual %),7,2007 [YR2007],5.43515169050809
+599,GDP growth (annual %),8,2007 [YR2007],2.53048188351066
+600,GDP growth (annual %),9,2007 [YR2007],2.8891174138025
+601,GDP growth (annual %),10,2007 [YR2007],2.93091133582351
+602,GDP growth (annual %),11,2007 [YR2007],1.46229205289291
+603,GDP growth (annual %),12,2007 [YR2007],3.42030119916608
+604,GDP growth (annual %),13,2007 [YR2007],3.53350013165972
+605,GDP growth (annual %),14,2007 [YR2007],3.22486814096095
+606,GDP growth (annual %),15,2007 [YR2007],8.49997776916511
+607,GDP growth (annual %),16,2007 [YR2007],2.0038583039496
+608,"Central government debt, total (% of GDP)",1,2007 [YR2007],..
+609,"Central government debt, total (% of GDP)",2,2007 [YR2007],..
+610,"Central government debt, total (% of GDP)",3,2007 [YR2007],..
+611,"Central government debt, total (% of GDP)",4,2007 [YR2007],..
+612,"Central government debt, total (% of GDP)",5,2007 [YR2007],77.2760743035509
+613,"Central government debt, total (% of GDP)",6,2007 [YR2007],40.0881257702829
+614,"Central government debt, total (% of GDP)",7,2007 [YR2007],22.9934668319175
+615,"Central government debt, total (% of GDP)",8,2007 [YR2007],..
+616,"Central government debt, total (% of GDP)",9,2007 [YR2007],..
+617,"Central government debt, total (% of GDP)",10,2007 [YR2007],93.3735852072108
+618,"Central government debt, total (% of GDP)",11,2007 [YR2007],..
+619,"Central government debt, total (% of GDP)",12,2007 [YR2007],..
+620,"Central government debt, total (% of GDP)",13,2007 [YR2007],31.7331273426985
+621,"Central government debt, total (% of GDP)",14,2007 [YR2007],..
+622,"Central government debt, total (% of GDP)",15,2007 [YR2007],7.15843011658404
+623,"Central government debt, total (% of GDP)",16,2007 [YR2007],55.8142306449781
+624,"Inflation, consumer prices (annual %)",1,2007 [YR2007],0.0600394544986689
+625,"Inflation, consumer prices (annual %)",2,2007 [YR2007],4.81676767378834
+626,"Inflation, consumer prices (annual %)",3,2007 [YR2007],2.53457382137932
+627,"Inflation, consumer prices (annual %)",4,2007 [YR2007],8.34444889773846
+628,"Inflation, consumer prices (annual %)",5,2007 [YR2007],2.10980166714573
+629,"Inflation, consumer prices (annual %)",6,2007 [YR2007],2.02735317779568
+630,"Inflation, consumer prices (annual %)",7,2007 [YR2007],2.24154095286801
+631,"Inflation, consumer prices (annual %)",8,2007 [YR2007],1.48832695801316
+632,"Inflation, consumer prices (annual %)",9,2007 [YR2007],2.2983440070095
+633,"Inflation, consumer prices (annual %)",10,2007 [YR2007],2.38656150773327
+634,"Inflation, consumer prices (annual %)",11,2007 [YR2007],1.82973929066794
+635,"Inflation, consumer prices (annual %)",12,2007 [YR2007],0.763566948459185
+636,"Inflation, consumer prices (annual %)",13,2007 [YR2007],2.78659181017893
+637,"Inflation, consumer prices (annual %)",14,2007 [YR2007],2.21014064531381
+638,"Inflation, consumer prices (annual %)",15,2007 [YR2007],9.00729868861079
+639,"Inflation, consumer prices (annual %)",16,2007 [YR2007],2.85267248150138
+640,Gini index,1,2007 [YR2007],..
+641,Gini index,2,2007 [YR2007],..
+642,Gini index,3,2007 [YR2007],..
+643,Gini index,4,2007 [YR2007],..
+644,Gini index,5,2007 [YR2007],..
+645,Gini index,6,2007 [YR2007],..
+646,Gini index,7,2007 [YR2007],39.8
+647,Gini index,8,2007 [YR2007],32.4
+648,Gini index,9,2007 [YR2007],31.2
+649,Gini index,10,2007 [YR2007],34.4
+650,Gini index,11,2007 [YR2007],32.9
+651,Gini index,12,2007 [YR2007],27.1
+652,Gini index,13,2007 [YR2007],34.1
+653,Gini index,14,2007 [YR2007],27.1
+654,Gini index,15,2007 [YR2007],42.3
+655,Gini index,16,2007 [YR2007],41.1
+656,Proportion of people living below 50 percent of median income (%),1,2007 [YR2007],..
+657,Proportion of people living below 50 percent of median income (%),2,2007 [YR2007],..
+658,Proportion of people living below 50 percent of median income (%),3,2007 [YR2007],..
+659,Proportion of people living below 50 percent of median income (%),4,2007 [YR2007],..
+660,Proportion of people living below 50 percent of median income (%),5,2007 [YR2007],..
+661,Proportion of people living below 50 percent of median income (%),6,2007 [YR2007],..
+662,Proportion of people living below 50 percent of median income (%),7,2007 [YR2007],13.1
+663,Proportion of people living below 50 percent of median income (%),8,2007 [YR2007],9.2
+664,Proportion of people living below 50 percent of median income (%),9,2007 [YR2007],8.2
+665,Proportion of people living below 50 percent of median income (%),10,2007 [YR2007],12.9
+666,Proportion of people living below 50 percent of median income (%),11,2007 [YR2007],13.2
+667,Proportion of people living below 50 percent of median income (%),12,2007 [YR2007],6.8
+668,Proportion of people living below 50 percent of median income (%),13,2007 [YR2007],13.9
+669,Proportion of people living below 50 percent of median income (%),14,2007 [YR2007],8.2
+670,Proportion of people living below 50 percent of median income (%),15,2007 [YR2007],15.1
+671,Proportion of people living below 50 percent of median income (%),16,2007 [YR2007],18.3
+672,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2008 [YR2008],4.002
+673,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2008 [YR2008],4.59
+674,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2008 [YR2008],2.959
+675,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2008 [YR2008],1.889
+676,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2008 [YR2008],3.96
+677,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2008 [YR2008],3.34
+678,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2008 [YR2008],1.18
+679,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2008 [YR2008],7.386
+680,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2008 [YR2008],7.508
+681,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2008 [YR2008],5.748
+682,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2008 [YR2008],6.723
+683,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2008 [YR2008],2.521
+684,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2008 [YR2008],11.254
+685,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2008 [YR2008],6.235
+686,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2008 [YR2008],6.205
+687,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2008 [YR2008],5.784
+688,GDP growth (annual %),1,2008 [YR2008],-1.16662209355141
+689,GDP growth (annual %),2,2008 [YR2008],9.66877608164454
+690,GDP growth (annual %),3,2008 [YR2008],3.00440451679569
+691,GDP growth (annual %),4,2008 [YR2008],5.66177120891362
+692,GDP growth (annual %),5,2008 [YR2008],1.86348345462035
+693,GDP growth (annual %),6,2008 [YR2008],4.83176988913097
+694,GDP growth (annual %),7,2008 [YR2008],1.72569884866334
+695,GDP growth (annual %),8,2008 [YR2008],0.380171435849121
+696,GDP growth (annual %),9,2008 [YR2008],0.887902330743628
+697,GDP growth (annual %),10,2008 [YR2008],-0.0494116727402769
+698,GDP growth (annual %),11,2008 [YR2008],-1.02313851177097
+699,GDP growth (annual %),12,2008 [YR2008],0.822805797014865
+700,GDP growth (annual %),13,2008 [YR2008],0.767165748290694
+701,GDP growth (annual %),14,2008 [YR2008],-0.923113250067971
+702,GDP growth (annual %),15,2008 [YR2008],5.19996926404957
+703,GDP growth (annual %),16,2008 [YR2008],0.113587247501258
+704,"Central government debt, total (% of GDP)",1,2008 [YR2008],..
+705,"Central government debt, total (% of GDP)",2,2008 [YR2008],..
+706,"Central government debt, total (% of GDP)",3,2008 [YR2008],..
+707,"Central government debt, total (% of GDP)",4,2008 [YR2008],..
+708,"Central government debt, total (% of GDP)",5,2008 [YR2008],96.4099647516113
+709,"Central government debt, total (% of GDP)",6,2008 [YR2008],39.7997028374607
+710,"Central government debt, total (% of GDP)",7,2008 [YR2008],22.4502172623288
+711,"Central government debt, total (% of GDP)",8,2008 [YR2008],..
+712,"Central government debt, total (% of GDP)",9,2008 [YR2008],..
+713,"Central government debt, total (% of GDP)",10,2008 [YR2008],104.84023075526
+714,"Central government debt, total (% of GDP)",11,2008 [YR2008],..
+715,"Central government debt, total (% of GDP)",12,2008 [YR2008],..
+716,"Central government debt, total (% of GDP)",13,2008 [YR2008],35.7047178362371
+717,"Central government debt, total (% of GDP)",14,2008 [YR2008],..
+718,"Central government debt, total (% of GDP)",15,2008 [YR2008],6.49528743788997
+719,"Central government debt, total (% of GDP)",16,2008 [YR2008],63.9719179502151
+720,"Inflation, consumer prices (annual %)",1,2008 [YR2008],1.3800788616492
+721,"Inflation, consumer prices (annual %)",2,2008 [YR2008],5.92525137041091
+722,"Inflation, consumer prices (annual %)",3,2008 [YR2008],4.67389655533408
+723,"Inflation, consumer prices (annual %)",4,2008 [YR2008],23.1154483474477
+724,"Inflation, consumer prices (annual %)",5,2008 [YR2008],6.63544058395309
+725,"Inflation, consumer prices (annual %)",6,2008 [YR2008],5.44078221100769
+726,"Inflation, consumer prices (annual %)",7,2008 [YR2008],5.46848949649846
+727,"Inflation, consumer prices (annual %)",8,2008 [YR2008],2.81292388428099
+728,"Inflation, consumer prices (annual %)",9,2008 [YR2008],2.62837981637219
+729,"Inflation, consumer prices (annual %)",10,2008 [YR2008],3.52140856342538
+730,"Inflation, consumer prices (annual %)",11,2008 [YR2008],3.34783416446058
+731,"Inflation, consumer prices (annual %)",12,2008 [YR2008],3.74830852503382
+732,"Inflation, consumer prices (annual %)",13,2008 [YR2008],4.0756625165525
+733,"Inflation, consumer prices (annual %)",14,2008 [YR2008],3.43913814369411
+734,"Inflation, consumer prices (annual %)",15,2008 [YR2008],14.1107677840442
+735,"Inflation, consumer prices (annual %)",16,2008 [YR2008],3.83910029665099
+736,Gini index,1,2008 [YR2008],34.6
+737,Gini index,2,2008 [YR2008],42.9
+738,Gini index,3,2008 [YR2008],32.3
+739,Gini index,4,2008 [YR2008],35.6
+740,Gini index,5,2008 [YR2008],..
+741,Gini index,6,2008 [YR2008],45.5
+742,Gini index,7,2008 [YR2008],40.3
+743,Gini index,8,2008 [YR2008],33
+744,Gini index,9,2008 [YR2008],30.6
+745,Gini index,10,2008 [YR2008],35.4
+746,Gini index,11,2008 [YR2008],33.8
+747,Gini index,12,2008 [YR2008],27
+748,Gini index,13,2008 [YR2008],34.2
+749,Gini index,14,2008 [YR2008],28.1
+750,Gini index,15,2008 [YR2008],41.6
+751,Gini index,16,2008 [YR2008],41.1
+752,Proportion of people living below 50 percent of median income (%),1,2008 [YR2008],15.4
+753,Proportion of people living below 50 percent of median income (%),2,2008 [YR2008],19
+754,Proportion of people living below 50 percent of median income (%),3,2008 [YR2008],12.9
+755,Proportion of people living below 50 percent of median income (%),4,2008 [YR2008],10.8
+756,Proportion of people living below 50 percent of median income (%),5,2008 [YR2008],..
+757,Proportion of people living below 50 percent of median income (%),6,2008 [YR2008],20.1
+758,Proportion of people living below 50 percent of median income (%),7,2008 [YR2008],13.6
+759,Proportion of people living below 50 percent of median income (%),8,2008 [YR2008],9.8
+760,Proportion of people living below 50 percent of median income (%),9,2008 [YR2008],8.6
+761,Proportion of people living below 50 percent of median income (%),10,2008 [YR2008],12.7
+762,Proportion of people living below 50 percent of median income (%),11,2008 [YR2008],13.4
+763,Proportion of people living below 50 percent of median income (%),12,2008 [YR2008],7.2
+764,Proportion of people living below 50 percent of median income (%),13,2008 [YR2008],14.8
+765,Proportion of people living below 50 percent of median income (%),14,2008 [YR2008],8.9
+766,Proportion of people living below 50 percent of median income (%),15,2008 [YR2008],14
+767,Proportion of people living below 50 percent of median income (%),16,2008 [YR2008],18.3
+768,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2009 [YR2009],5.068
+769,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2009 [YR2009],4.72
+770,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2009 [YR2009],3.363
+771,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2009 [YR2009],1.737
+772,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2009 [YR2009],5.86
+773,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2009 [YR2009],3.62
+774,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2009 [YR2009],1.49
+775,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2009 [YR2009],9.122
+776,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2009 [YR2009],7.88
+777,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2009 [YR2009],7.683
+778,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2009 [YR2009],7.749
+779,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2009 [YR2009],3.1
+780,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2009 [YR2009],17.857
+781,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2009 [YR2009],8.351
+782,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2009 [YR2009],8.301
+783,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2009 [YR2009],9.254
+784,GDP growth (annual %),1,2009 [YR2009],-5.9359411383964
+785,GDP growth (annual %),2,2009 [YR2009],9.40610014336416
+786,GDP growth (annual %),3,2009 [YR2009],0.81986175641795
+787,GDP growth (annual %),4,2009 [YR2009],5.39789754014181
+788,GDP growth (annual %),5,2009 [YR2009],0.127953382778088
+789,GDP growth (annual %),6,2009 [YR2009],-1.51352871598714
+790,GDP growth (annual %),7,2009 [YR2009],-0.690618232300579
+791,GDP growth (annual %),8,2009 [YR2009],-2.82455153714783
+792,GDP growth (annual %),9,2009 [YR2009],-5.54455451920674
+793,GDP growth (annual %),10,2009 [YR2009],-4.58740819226323
+794,GDP growth (annual %),11,2009 [YR2009],-5.30515401233991
+795,GDP growth (annual %),12,2009 [YR2009],-1.61327151945869
+796,GDP growth (annual %),13,2009 [YR2009],-3.76813306940053
+797,GDP growth (annual %),14,2009 [YR2009],-4.25561384207619
+798,GDP growth (annual %),15,2009 [YR2009],-7.79999391271275
+799,GDP growth (annual %),16,2009 [YR2009],-2.5765002366652
+800,"Central government debt, total (% of GDP)",1,2009 [YR2009],..
+801,"Central government debt, total (% of GDP)",2,2009 [YR2009],..
+802,"Central government debt, total (% of GDP)",3,2009 [YR2009],..
+803,"Central government debt, total (% of GDP)",4,2009 [YR2009],..
+804,"Central government debt, total (% of GDP)",5,2009 [YR2009],106.372468302322
+805,"Central government debt, total (% of GDP)",6,2009 [YR2009],50.8357455983458
+806,"Central government debt, total (% of GDP)",7,2009 [YR2009],26.7791952036446
+807,"Central government debt, total (% of GDP)",8,2009 [YR2009],..
+808,"Central government debt, total (% of GDP)",9,2009 [YR2009],..
+809,"Central government debt, total (% of GDP)",10,2009 [YR2009],122.887383328898
+810,"Central government debt, total (% of GDP)",11,2009 [YR2009],..
+811,"Central government debt, total (% of GDP)",12,2009 [YR2009],..
+812,"Central government debt, total (% of GDP)",13,2009 [YR2009],48.1994103860454
+813,"Central government debt, total (% of GDP)",14,2009 [YR2009],..
+814,"Central government debt, total (% of GDP)",15,2009 [YR2009],8.69786633503919
+815,"Central government debt, total (% of GDP)",16,2009 [YR2009],76.0321802627381
+816,"Inflation, consumer prices (annual %)",1,2009 [YR2009],-1.35283672951718
+817,"Inflation, consumer prices (annual %)",2,2009 [YR2009],-0.728165250932898
+818,"Inflation, consumer prices (annual %)",3,2009 [YR2009],2.75649654493929
+819,"Inflation, consumer prices (annual %)",4,2009 [YR2009],6.71698269988631
+820,"Inflation, consumer prices (annual %)",5,2009 [YR2009],0.589142019610515
+821,"Inflation, consumer prices (annual %)",6,2009 [YR2009],0.583308405623702
+822,"Inflation, consumer prices (annual %)",7,2009 [YR2009],-0.84571609231672
+823,"Inflation, consumer prices (annual %)",8,2009 [YR2009],0.0875940825330688
+824,"Inflation, consumer prices (annual %)",9,2009 [YR2009],0.312739007368446
+825,"Inflation, consumer prices (annual %)",10,2009 [YR2009],1.96173173560109
+826,"Inflation, consumer prices (annual %)",11,2009 [YR2009],0.774768405130467
+827,"Inflation, consumer prices (annual %)",12,2009 [YR2009],2.16512325551065
+828,"Inflation, consumer prices (annual %)",13,2009 [YR2009],-0.287933627929478
+829,"Inflation, consumer prices (annual %)",14,2009 [YR2009],-0.495598304532137
+830,"Inflation, consumer prices (annual %)",15,2009 [YR2009],11.6473295764117
+831,"Inflation, consumer prices (annual %)",16,2009 [YR2009],-0.355546266299747
+832,Gini index,1,2009 [YR2009],33
+833,Gini index,2,2009 [YR2009],..
+834,Gini index,3,2009 [YR2009],..
+835,Gini index,4,2009 [YR2009],..
+836,Gini index,5,2009 [YR2009],..
+837,Gini index,6,2009 [YR2009],..
+838,Gini index,7,2009 [YR2009],39.6
+839,Gini index,8,2009 [YR2009],32.7
+840,Gini index,9,2009 [YR2009],30.4
+841,Gini index,10,2009 [YR2009],35.1
+842,Gini index,11,2009 [YR2009],33.8
+843,Gini index,12,2009 [YR2009],26.2
+844,Gini index,13,2009 [YR2009],34.9
+845,Gini index,14,2009 [YR2009],27.3
+846,Gini index,15,2009 [YR2009],39.8
+847,Gini index,16,2009 [YR2009],40.9
+848,Proportion of people living below 50 percent of median income (%),1,2009 [YR2009],13.3
+849,Proportion of people living below 50 percent of median income (%),2,2009 [YR2009],..
+850,Proportion of people living below 50 percent of median income (%),3,2009 [YR2009],..
+851,Proportion of people living below 50 percent of median income (%),4,2009 [YR2009],..
+852,Proportion of people living below 50 percent of median income (%),5,2009 [YR2009],..
+853,Proportion of people living below 50 percent of median income (%),6,2009 [YR2009],..
+854,Proportion of people living below 50 percent of median income (%),7,2009 [YR2009],13.3
+855,Proportion of people living below 50 percent of median income (%),8,2009 [YR2009],11.1
+856,Proportion of people living below 50 percent of median income (%),9,2009 [YR2009],9.2
+857,Proportion of people living below 50 percent of median income (%),10,2009 [YR2009],11.9
+858,Proportion of people living below 50 percent of median income (%),11,2009 [YR2009],13.7
+859,Proportion of people living below 50 percent of median income (%),12,2009 [YR2009],7.1
+860,Proportion of people living below 50 percent of median income (%),13,2009 [YR2009],15
+861,Proportion of people living below 50 percent of median income (%),14,2009 [YR2009],9.2
+862,Proportion of people living below 50 percent of median income (%),15,2009 [YR2009],13.3
+863,Proportion of people living below 50 percent of median income (%),16,2009 [YR2009],17.4
+864,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2010 [YR2010],5.102
+865,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2010 [YR2010],4.53
+866,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2010 [YR2010],3.324
+867,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2010 [YR2010],1.114
+868,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2010 [YR2010],4.12
+869,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2010 [YR2010],3.32
+870,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2010 [YR2010],0.622
+871,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2010 [YR2010],9.279
+872,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2010 [YR2010],7.043
+873,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2010 [YR2010],7.973
+874,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2010 [YR2010],8.363
+875,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2010 [YR2010],3.527
+876,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2010 [YR2010],19.86
+877,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2010 [YR2010],8.61
+878,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2010 [YR2010],7.407
+879,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2010 [YR2010],9.633
+880,GDP growth (annual %),1,2010 [YR2010],4.13645589222239
+881,GDP growth (annual %),2,2010 [YR2010],10.5916903885704
+882,GDP growth (annual %),3,2010 [YR2010],6.98166138853071
+883,GDP growth (annual %),4,2010 [YR2010],6.42324482239482
+884,GDP growth (annual %),5,2010 [YR2010],14.5197497108994
+885,GDP growth (annual %),6,2010 [YR2010],7.42484738326097
+886,GDP growth (annual %),7,2010 [YR2010],7.51339053261624
+887,GDP growth (annual %),8,2010 [YR2010],2.00032476039051
+888,GDP growth (annual %),9,2010 [YR2010],4.13463778522758
+889,GDP growth (annual %),10,2010 [YR2010],2.26054460931586
+890,GDP growth (annual %),11,2010 [YR2010],1.52910573247101
+891,GDP growth (annual %),12,2010 [YR2010],1.00493269017117
+892,GDP growth (annual %),13,2010 [YR2010],0.0941223116369514
+893,GDP growth (annual %),14,2010 [YR2010],5.75076477579255
+894,GDP growth (annual %),15,2010 [YR2010],4.49999999920672
+895,GDP growth (annual %),16,2010 [YR2010],2.69519258673525
+896,"Central government debt, total (% of GDP)",1,2010 [YR2010],..
+897,"Central government debt, total (% of GDP)",2,2010 [YR2010],..
+898,"Central government debt, total (% of GDP)",3,2010 [YR2010],..
+899,"Central government debt, total (% of GDP)",4,2010 [YR2010],..
+900,"Central government debt, total (% of GDP)",5,2010 [YR2010],101.449782417951
+901,"Central government debt, total (% of GDP)",6,2010 [YR2010],49.5598230655171
+902,"Central government debt, total (% of GDP)",7,2010 [YR2010],26.9008455437265
+903,"Central government debt, total (% of GDP)",8,2010 [YR2010],..
+904,"Central government debt, total (% of GDP)",9,2010 [YR2010],..
+905,"Central government debt, total (% of GDP)",10,2010 [YR2010],130.497283454602
+906,"Central government debt, total (% of GDP)",11,2010 [YR2010],..
+907,"Central government debt, total (% of GDP)",12,2010 [YR2010],..
+908,"Central government debt, total (% of GDP)",13,2010 [YR2010],49.9611949485467
+909,"Central government debt, total (% of GDP)",14,2010 [YR2010],..
+910,"Central government debt, total (% of GDP)",15,2010 [YR2010],9.09810564473106
+911,"Central government debt, total (% of GDP)",16,2010 [YR2010],85.1547923110491
+912,"Inflation, consumer prices (annual %)",1,2010 [YR2010],-0.728243207517778
+913,"Inflation, consumer prices (annual %)",2,2010 [YR2010],3.17532475269199
+914,"Inflation, consumer prices (annual %)",3,2010 [YR2010],2.93928652655685
+915,"Inflation, consumer prices (annual %)",4,2010 [YR2010],9.20746648778412
+916,"Inflation, consumer prices (annual %)",5,2010 [YR2010],2.82884527612958
+917,"Inflation, consumer prices (annual %)",6,2010 [YR2010],1.62285235577035
+918,"Inflation, consumer prices (annual %)",7,2010 [YR2010],3.24758842443725
+919,"Inflation, consumer prices (annual %)",8,2010 [YR2010],1.5331755858805
+920,"Inflation, consumer prices (annual %)",9,2010 [YR2010],1.1038103778926
+921,"Inflation, consumer prices (annual %)",10,2010 [YR2010],2.49265472467065
+922,"Inflation, consumer prices (annual %)",11,2010 [YR2010],1.52551524837656
+923,"Inflation, consumer prices (annual %)",12,2010 [YR2010],2.41286863270777
+924,"Inflation, consumer prices (annual %)",13,2010 [YR2010],1.79982772602942
+925,"Inflation, consumer prices (annual %)",14,2010 [YR2010],1.15997116455861
+926,"Inflation, consumer prices (annual %)",15,2010 [YR2010],6.84939230255024
+927,"Inflation, consumer prices (annual %)",16,2010 [YR2010],1.6400434423899
+928,Gini index,1,2010 [YR2010],31.5
+929,Gini index,2,2010 [YR2010],43.7
+930,Gini index,3,2010 [YR2010],32
+931,Gini index,4,2010 [YR2010],39.3
+932,Gini index,5,2010 [YR2010],..
+933,Gini index,6,2010 [YR2010],..
+934,Gini index,7,2010 [YR2010],39.4
+935,Gini index,8,2010 [YR2010],33.7
+936,Gini index,9,2010 [YR2010],30.2
+937,Gini index,10,2010 [YR2010],33.7
+938,Gini index,11,2010 [YR2010],34.7
+939,Gini index,12,2010 [YR2010],25.7
+940,Gini index,13,2010 [YR2010],35.2
+941,Gini index,14,2010 [YR2010],27.7
+942,Gini index,15,2010 [YR2010],39.5
+943,Gini index,16,2010 [YR2010],40.2
+944,Proportion of people living below 50 percent of median income (%),1,2010 [YR2010],12.1
+945,Proportion of people living below 50 percent of median income (%),2,2010 [YR2010],19.5
+946,Proportion of people living below 50 percent of median income (%),3,2010 [YR2010],12.3
+947,Proportion of people living below 50 percent of median income (%),4,2010 [YR2010],13.4
+948,Proportion of people living below 50 percent of median income (%),5,2010 [YR2010],..
+949,Proportion of people living below 50 percent of median income (%),6,2010 [YR2010],..
+950,Proportion of people living below 50 percent of median income (%),7,2010 [YR2010],12.4
+951,Proportion of people living below 50 percent of median income (%),8,2010 [YR2010],10.3
+952,Proportion of people living below 50 percent of median income (%),9,2010 [YR2010],8.8
+953,Proportion of people living below 50 percent of median income (%),10,2010 [YR2010],11.2
+954,Proportion of people living below 50 percent of median income (%),11,2010 [YR2010],14.4
+955,Proportion of people living below 50 percent of median income (%),12,2010 [YR2010],7.1
+956,Proportion of people living below 50 percent of median income (%),13,2010 [YR2010],14.7
+957,Proportion of people living below 50 percent of median income (%),14,2010 [YR2010],8.9
+958,Proportion of people living below 50 percent of median income (%),15,2010 [YR2010],13.2
+959,Proportion of people living below 50 percent of median income (%),16,2010 [YR2010],17.7
+960,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2011 [YR2011],4.55
+961,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2011 [YR2011],4.55
+962,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2011 [YR2011],2.992
+963,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2011 [YR2011],0.999
+964,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2011 [YR2011],3.89
+965,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2011 [YR2011],3.05
+966,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2011 [YR2011],0.66
+967,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2011 [YR2011],9.228
+968,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2011 [YR2011],5.967
+969,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2011 [YR2011],8.195
+970,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2011 [YR2011],8.359
+971,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2011 [YR2011],3.196
+972,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2011 [YR2011],21.39
+973,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2011 [YR2011],7.804
+974,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2011 [YR2011],6.571
+975,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2011 [YR2011],8.949
+976,GDP growth (annual %),1,2011 [YR2011],-0.20035785332982
+977,GDP growth (annual %),2,2011 [YR2011],9.46205248298186
+978,GDP growth (annual %),3,2011 [YR2011],3.6880320602952
+979,GDP growth (annual %),4,2011 [YR2011],6.41316889681683
+980,GDP growth (annual %),5,2011 [YR2011],6.21493416858989
+981,GDP growth (annual %),6,2011 [YR2011],5.29391283414003
+982,GDP growth (annual %),7,2011 [YR2011],0.840132083053334
+983,GDP growth (annual %),8,2011 [YR2011],2.43757653729007
+984,GDP growth (annual %),9,2011 [YR2011],3.75796884489337
+985,GDP growth (annual %),10,2011 [YR2011],0.851437739020326
+986,GDP growth (annual %),11,2011 [YR2011],0.695463154440176
+987,GDP growth (annual %),12,2011 [YR2011],1.38505117083945
+988,GDP growth (annual %),13,2011 [YR2011],-0.639920636520344
+989,GDP growth (annual %),14,2011 [YR2011],3.16388567406926
+990,GDP growth (annual %),15,2011 [YR2011],4.30002918604238
+991,GDP growth (annual %),16,2011 [YR2011],1.56440685205419
+992,"Central government debt, total (% of GDP)",1,2011 [YR2011],..
+993,"Central government debt, total (% of GDP)",2,2011 [YR2011],..
+994,"Central government debt, total (% of GDP)",3,2011 [YR2011],..
+995,"Central government debt, total (% of GDP)",4,2011 [YR2011],..
+996,"Central government debt, total (% of GDP)",5,2011 [YR2011],104.78518384861
+997,"Central government debt, total (% of GDP)",6,2011 [YR2011],50.0286816425423
+998,"Central government debt, total (% of GDP)",7,2011 [YR2011],28.1319763006874
+999,"Central government debt, total (% of GDP)",8,2011 [YR2011],..
+1000,"Central government debt, total (% of GDP)",9,2011 [YR2011],..
+1001,"Central government debt, total (% of GDP)",10,2011 [YR2011],143.125971214621
+1002,"Central government debt, total (% of GDP)",11,2011 [YR2011],..
+1003,"Central government debt, total (% of GDP)",12,2011 [YR2011],..
+1004,"Central government debt, total (% of GDP)",13,2011 [YR2011],57.7899857640377
+1005,"Central government debt, total (% of GDP)",14,2011 [YR2011],..
+1006,"Central government debt, total (% of GDP)",15,2011 [YR2011],8.64108194430582
+1007,"Central government debt, total (% of GDP)",16,2011 [YR2011],89.7346954422037
+1008,"Inflation, consumer prices (annual %)",1,2011 [YR2011],-0.27245561610124
+1009,"Inflation, consumer prices (annual %)",2,2011 [YR2011],5.55389892257493
+1010,"Inflation, consumer prices (annual %)",3,2011 [YR2011],4.0259650043609
+1011,"Inflation, consumer prices (annual %)",4,2011 [YR2011],18.6777322770706
+1012,"Inflation, consumer prices (annual %)",5,2011 [YR2011],5.25115624639373
+1013,"Inflation, consumer prices (annual %)",6,2011 [YR2011],3.1744709215131
+1014,"Inflation, consumer prices (annual %)",7,2011 [YR2011],3.81191694558332
+1015,"Inflation, consumer prices (annual %)",8,2011 [YR2011],2.1080747456689
+1016,"Inflation, consumer prices (annual %)",9,2011 [YR2011],2.07517283735874
+1017,"Inflation, consumer prices (annual %)",10,2011 [YR2011],3.8561124468282
+1018,"Inflation, consumer prices (annual %)",11,2011 [YR2011],2.7805745844426
+1019,"Inflation, consumer prices (annual %)",12,2011 [YR2011],1.30890052356022
+1020,"Inflation, consumer prices (annual %)",13,2011 [YR2011],3.19609425018081
+1021,"Inflation, consumer prices (annual %)",14,2011 [YR2011],2.959686077074
+1022,"Inflation, consumer prices (annual %)",15,2011 [YR2011],8.4404648593257
+1023,"Inflation, consumer prices (annual %)",16,2011 [YR2011],3.156841568622
+1024,Gini index,1,2011 [YR2011],33
+1025,Gini index,2,2011 [YR2011],42.3
+1026,Gini index,3,2011 [YR2011],..
+1027,Gini index,4,2011 [YR2011],..
+1028,Gini index,5,2011 [YR2011],..
+1029,Gini index,6,2011 [YR2011],43.6
+1030,Gini index,7,2011 [YR2011],37.5
+1031,Gini index,8,2011 [YR2011],33.3
+1032,Gini index,9,2011 [YR2011],30.4
+1033,Gini index,10,2011 [YR2011],33.2
+1034,Gini index,11,2011 [YR2011],35.1
+1035,Gini index,12,2011 [YR2011],25.3
+1036,Gini index,13,2011 [YR2011],35.7
+1037,Gini index,14,2011 [YR2011],27.6
+1038,Gini index,15,2011 [YR2011],39.7
+1039,Gini index,16,2011 [YR2011],41.2
+1040,Proportion of people living below 50 percent of median income (%),1,2011 [YR2011],13.2
+1041,Proportion of people living below 50 percent of median income (%),2,2011 [YR2011],18.2
+1042,Proportion of people living below 50 percent of median income (%),3,2011 [YR2011],..
+1043,Proportion of people living below 50 percent of median income (%),4,2011 [YR2011],..
+1044,Proportion of people living below 50 percent of median income (%),5,2011 [YR2011],..
+1045,Proportion of people living below 50 percent of median income (%),6,2011 [YR2011],18.5
+1046,Proportion of people living below 50 percent of median income (%),7,2011 [YR2011],10.4
+1047,Proportion of people living below 50 percent of median income (%),8,2011 [YR2011],9.9
+1048,Proportion of people living below 50 percent of median income (%),9,2011 [YR2011],8.5
+1049,Proportion of people living below 50 percent of median income (%),10,2011 [YR2011],11.5
+1050,Proportion of people living below 50 percent of median income (%),11,2011 [YR2011],14.7
+1051,Proportion of people living below 50 percent of median income (%),12,2011 [YR2011],6.9
+1052,Proportion of people living below 50 percent of median income (%),13,2011 [YR2011],15.8
+1053,Proportion of people living below 50 percent of median income (%),14,2011 [YR2011],9.4
+1054,Proportion of people living below 50 percent of median income (%),15,2011 [YR2011],12.9
+1055,Proportion of people living below 50 percent of median income (%),16,2011 [YR2011],17.9
+1056,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2012 [YR2012],4.358
+1057,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2012 [YR2012],4.58
+1058,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2012 [YR2012],2.812
+1059,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2012 [YR2012],1.027
+1060,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2012 [YR2012],3.72
+1061,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2012 [YR2012],3.04
+1062,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2012 [YR2012],0.58
+1063,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2012 [YR2012],9.841
+1064,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2012 [YR2012],5.372
+1065,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2012 [YR2012],8.279
+1066,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2012 [YR2012],10.655
+1067,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2012 [YR2012],3.129
+1068,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2012 [YR2012],24.789
+1069,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2012 [YR2012],7.976
+1070,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2012 [YR2012],5.484
+1071,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2012 [YR2012],8.069
+1072,GDP growth (annual %),1,2012 [YR2012],1.64893452981225
+1073,GDP growth (annual %),2,2012 [YR2012],7.8578201481217
+1074,GDP growth (annual %),3,2012 [YR2012],2.54766550568242
+1075,GDP growth (annual %),4,2012 [YR2012],5.5045447041189
+1076,GDP growth (annual %),5,2012 [YR2012],4.43549759378537
+1077,GDP growth (annual %),6,2012 [YR2012],5.47345419253853
+1078,GDP growth (annual %),7,2012 [YR2012],7.24279620249642
+1079,GDP growth (annual %),8,2012 [YR2012],0.183835264973013
+1080,GDP growth (annual %),9,2012 [YR2012],0.463512036709204
+1081,GDP growth (annual %),10,2012 [YR2012],1.52826034721852
+1082,GDP growth (annual %),11,2012 [YR2012],-3.12523877282996
+1083,GDP growth (annual %),12,2012 [YR2012],2.82395673492459
+1084,GDP growth (annual %),13,2012 [YR2012],-2.86511368637748
+1085,GDP growth (annual %),14,2012 [YR2012],-0.414397702454409
+1086,GDP growth (annual %),15,2012 [YR2012],4.0240861571798
+1087,GDP growth (annual %),16,2012 [YR2012],2.28911339009767
+1088,"Central government debt, total (% of GDP)",1,2012 [YR2012],..
+1089,"Central government debt, total (% of GDP)",2,2012 [YR2012],..
+1090,"Central government debt, total (% of GDP)",3,2012 [YR2012],31.0184112293818
+1091,"Central government debt, total (% of GDP)",4,2012 [YR2012],..
+1092,"Central government debt, total (% of GDP)",5,2012 [YR2012],107.828093624626
+1093,"Central government debt, total (% of GDP)",6,2012 [YR2012],51.6464316160996
+1094,"Central government debt, total (% of GDP)",7,2012 [YR2012],28.4447160238828
+1095,"Central government debt, total (% of GDP)",8,2012 [YR2012],..
+1096,"Central government debt, total (% of GDP)",9,2012 [YR2012],..
+1097,"Central government debt, total (% of GDP)",10,2012 [YR2012],146.371335905972
+1098,"Central government debt, total (% of GDP)",11,2012 [YR2012],..
+1099,"Central government debt, total (% of GDP)",12,2012 [YR2012],..
+1100,"Central government debt, total (% of GDP)",13,2012 [YR2012],77.446159411603
+1101,"Central government debt, total (% of GDP)",14,2012 [YR2012],..
+1102,"Central government debt, total (% of GDP)",15,2012 [YR2012],8.55140859340356
+1103,"Central government debt, total (% of GDP)",16,2012 [YR2012],93.8330143343442
+1104,"Inflation, consumer prices (annual %)",1,2012 [YR2012],-0.0440645104432601
+1105,"Inflation, consumer prices (annual %)",2,2012 [YR2012],2.6195243264554
+1106,"Inflation, consumer prices (annual %)",3,2012 [YR2012],2.18707104433313
+1107,"Inflation, consumer prices (annual %)",4,2012 [YR2012],9.09470339557192
+1108,"Inflation, consumer prices (annual %)",5,2012 [YR2012],4.58084479423094
+1109,"Inflation, consumer prices (annual %)",6,2012 [YR2012],1.66357102479205
+1110,"Inflation, consumer prices (annual %)",7,2012 [YR2012],3.00948610403357
+1111,"Inflation, consumer prices (annual %)",8,2012 [YR2012],1.95512386272455
+1112,"Inflation, consumer prices (annual %)",9,2012 [YR2012],2.00848884782956
+1113,"Inflation, consumer prices (annual %)",10,2012 [YR2012],2.5732347965453
+1114,"Inflation, consumer prices (annual %)",11,2012 [YR2012],3.04136112082258
+1115,"Inflation, consumer prices (annual %)",12,2012 [YR2012],0.689061154177421
+1116,"Inflation, consumer prices (annual %)",13,2012 [YR2012],2.44595735030202
+1117,"Inflation, consumer prices (annual %)",14,2012 [YR2012],0.888988764045007
+1118,"Inflation, consumer prices (annual %)",15,2012 [YR2012],5.07474300799149
+1119,"Inflation, consumer prices (annual %)",16,2012 [YR2012],2.06933726526066
+1120,Gini index,1,2012 [YR2012],32.5
+1121,Gini index,2,2012 [YR2012],42.1
+1122,Gini index,3,2012 [YR2012],31.6
+1123,Gini index,4,2012 [YR2012],35.6
+1124,Gini index,5,2012 [YR2012],..
+1125,Gini index,6,2012 [YR2012],..
+1126,Gini index,7,2012 [YR2012],39.3
+1127,Gini index,8,2012 [YR2012],33.1
+1128,Gini index,9,2012 [YR2012],30.9
+1129,Gini index,10,2012 [YR2012],33.1
+1130,Gini index,11,2012 [YR2012],35.2
+1131,Gini index,12,2012 [YR2012],25.7
+1132,Gini index,13,2012 [YR2012],35.4
+1133,Gini index,14,2012 [YR2012],27.6
+1134,Gini index,15,2012 [YR2012],40.7
+1135,Gini index,16,2012 [YR2012],41.2
+1136,Proportion of people living below 50 percent of median income (%),1,2012 [YR2012],12.3
+1137,Proportion of people living below 50 percent of median income (%),2,2012 [YR2012],18.6
+1138,Proportion of people living below 50 percent of median income (%),3,2012 [YR2012],12.8
+1139,Proportion of people living below 50 percent of median income (%),4,2012 [YR2012],12.8
+1140,Proportion of people living below 50 percent of median income (%),5,2012 [YR2012],..
+1141,Proportion of people living below 50 percent of median income (%),6,2012 [YR2012],..
+1142,Proportion of people living below 50 percent of median income (%),7,2012 [YR2012],12.8
+1143,Proportion of people living below 50 percent of median income (%),8,2012 [YR2012],10.1
+1144,Proportion of people living below 50 percent of median income (%),9,2012 [YR2012],9.7
+1145,Proportion of people living below 50 percent of median income (%),10,2012 [YR2012],11.1
+1146,Proportion of people living below 50 percent of median income (%),11,2012 [YR2012],14.2
+1147,Proportion of people living below 50 percent of median income (%),12,2012 [YR2012],7.1
+1148,Proportion of people living below 50 percent of median income (%),13,2012 [YR2012],15.9
+1149,Proportion of people living below 50 percent of median income (%),14,2012 [YR2012],9.6
+1150,Proportion of people living below 50 percent of median income (%),15,2012 [YR2012],12.7
+1151,Proportion of people living below 50 percent of median income (%),16,2012 [YR2012],18.1
+1152,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2013 [YR2013],4.038
+1153,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2013 [YR2013],4.6
+1154,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2013 [YR2013],3.067
+1155,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2013 [YR2013],1.316
+1156,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2013 [YR2013],3.86
+1157,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2013 [YR2013],3.14
+1158,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2013 [YR2013],0.249
+1159,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2013 [YR2013],9.913
+1160,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2013 [YR2013],5.316
+1161,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2013 [YR2013],7.752
+1162,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2013 [YR2013],12.149
+1163,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2013 [YR2013],3.425
+1164,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2013 [YR2013],26.094
+1165,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2013 [YR2013],8.052
+1166,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2013 [YR2013],5.513
+1167,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2013 [YR2013],7.375
+1168,GDP growth (annual %),1,2013 [YR2013],1.99727653399265
+1169,GDP growth (annual %),2,2013 [YR2013],7.77842954757257
+1170,GDP growth (annual %),3,2013 [YR2013],3.2913959543442
+1171,GDP growth (annual %),4,2013 [YR2013],5.55351081026072
+1172,GDP growth (annual %),5,2013 [YR2013],4.81763099120676
+1173,GDP growth (annual %),6,2013 [YR2013],4.69372252557893
+1174,GDP growth (annual %),7,2013 [YR2013],2.68749556320556
+1175,GDP growth (annual %),8,2013 [YR2013],0.781756446231
+1176,GDP growth (annual %),9,2013 [YR2013],0.396995583779145
+1177,GDP growth (annual %),10,2013 [YR2013],1.71846961308464
+1178,GDP growth (annual %),11,2013 [YR2013],-1.81802510749792
+1179,GDP growth (annual %),12,2013 [YR2013],1.27290177696287
+1180,GDP growth (annual %),13,2013 [YR2013],-1.42732224757626
+1181,GDP growth (annual %),14,2013 [YR2013],1.13766671801426
+1182,GDP growth (annual %),15,2013 [YR2013],1.75542214916291
+1183,GDP growth (annual %),16,2013 [YR2013],2.11783009443471
+1184,"Central government debt, total (% of GDP)",1,2013 [YR2013],..
+1185,"Central government debt, total (% of GDP)",2,2013 [YR2013],..
+1186,"Central government debt, total (% of GDP)",3,2013 [YR2013],33.3707589515616
+1187,"Central government debt, total (% of GDP)",4,2013 [YR2013],..
+1188,"Central government debt, total (% of GDP)",5,2013 [YR2013],99.4464888561159
+1189,"Central government debt, total (% of GDP)",6,2013 [YR2013],52.9992519246741
+1190,"Central government debt, total (% of GDP)",7,2013 [YR2013],38.1666950570794
+1191,"Central government debt, total (% of GDP)",8,2013 [YR2013],..
+1192,"Central government debt, total (% of GDP)",9,2013 [YR2013],..
+1193,"Central government debt, total (% of GDP)",10,2013 [YR2013],141.033172505075
+1194,"Central government debt, total (% of GDP)",11,2013 [YR2013],..
+1195,"Central government debt, total (% of GDP)",12,2013 [YR2013],..
+1196,"Central government debt, total (% of GDP)",13,2013 [YR2013],91.8693310672975
+1197,"Central government debt, total (% of GDP)",14,2013 [YR2013],..
+1198,"Central government debt, total (% of GDP)",15,2013 [YR2013],9.06725564048848
+1199,"Central government debt, total (% of GDP)",16,2013 [YR2013],95.5058927414252
+1200,"Inflation, consumer prices (annual %)",1,2013 [YR2013],0.335037912184741
+1201,"Inflation, consumer prices (annual %)",2,2013 [YR2013],2.62105001748114
+1202,"Inflation, consumer prices (annual %)",3,2013 [YR2013],1.30134754547412
+1203,"Inflation, consumer prices (annual %)",4,2013 [YR2013],6.59267475899192
+1204,"Inflation, consumer prices (annual %)",5,2013 [YR2013],2.36439793742725
+1205,"Inflation, consumer prices (annual %)",6,2013 [YR2013],2.10501231233612
+1206,"Inflation, consumer prices (annual %)",7,2013 [YR2013],2.18617704418966
+1207,"Inflation, consumer prices (annual %)",8,2013 [YR2013],0.862729865377273
+1208,"Inflation, consumer prices (annual %)",9,2013 [YR2013],1.50472330251876
+1209,"Inflation, consumer prices (annual %)",10,2013 [YR2013],2.29166666666659
+1210,"Inflation, consumer prices (annual %)",11,2013 [YR2013],1.21999478919838
+1211,"Inflation, consumer prices (annual %)",12,2013 [YR2013],2.12635952584622
+1212,"Inflation, consumer prices (annual %)",13,2013 [YR2013],1.40871603132886
+1213,"Inflation, consumer prices (annual %)",14,2013 [YR2013],-0.0463297071428012
+1214,"Inflation, consumer prices (annual %)",15,2013 [YR2013],6.75466833903486
+1215,"Inflation, consumer prices (annual %)",16,2013 [YR2013],1.46483265562716
+1216,Gini index,1,2013 [YR2013],31.5
+1217,Gini index,2,2013 [YR2013],39.7
+1218,Gini index,3,2013 [YR2013],..
+1219,Gini index,4,2013 [YR2013],..
+1220,Gini index,5,2013 [YR2013],..
+1221,Gini index,6,2013 [YR2013],41.3
+1222,Gini index,7,2013 [YR2013],37.8
+1223,Gini index,8,2013 [YR2013],32.5
+1224,Gini index,9,2013 [YR2013],31.4
+1225,Gini index,10,2013 [YR2013],32.7
+1226,Gini index,11,2013 [YR2013],34.9
+1227,Gini index,12,2013 [YR2013],26.4
+1228,Gini index,13,2013 [YR2013],36.2
+1229,Gini index,14,2013 [YR2013],28.8
+1230,Gini index,15,2013 [YR2013],40.9
+1231,Gini index,16,2013 [YR2013],40.9
+1232,Proportion of people living below 50 percent of median income (%),1,2013 [YR2013],12.8
+1233,Proportion of people living below 50 percent of median income (%),2,2013 [YR2013],15.5
+1234,Proportion of people living below 50 percent of median income (%),3,2013 [YR2013],..
+1235,Proportion of people living below 50 percent of median income (%),4,2013 [YR2013],..
+1236,Proportion of people living below 50 percent of median income (%),5,2013 [YR2013],..
+1237,Proportion of people living below 50 percent of median income (%),6,2013 [YR2013],15.9
+1238,Proportion of people living below 50 percent of median income (%),7,2013 [YR2013],11.8
+1239,Proportion of people living below 50 percent of median income (%),8,2013 [YR2013],9.8
+1240,Proportion of people living below 50 percent of median income (%),9,2013 [YR2013],9.5
+1241,Proportion of people living below 50 percent of median income (%),10,2013 [YR2013],11.1
+1242,Proportion of people living below 50 percent of median income (%),11,2013 [YR2013],14.8
+1243,Proportion of people living below 50 percent of median income (%),12,2013 [YR2013],7.1
+1244,Proportion of people living below 50 percent of median income (%),13,2013 [YR2013],17.8
+1245,Proportion of people living below 50 percent of median income (%),14,2013 [YR2013],10.1
+1246,Proportion of people living below 50 percent of median income (%),15,2013 [YR2013],12.5
+1247,Proportion of people living below 50 percent of median income (%),16,2013 [YR2013],17.9
+1248,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2014 [YR2014],3.589
+1249,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2014 [YR2014],4.63
+1250,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2014 [YR2014],3.082
+1251,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2014 [YR2014],1.256
+1252,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2014 [YR2014],3.74
+1253,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2014 [YR2014],2.88
+1254,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2014 [YR2014],0.576
+1255,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2014 [YR2014],10.273
+1256,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2014 [YR2014],4.979
+1257,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2014 [YR2014],6.398
+1258,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2014 [YR2014],12.683
+1259,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2014 [YR2014],3.486
+1260,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2014 [YR2014],24.441
+1261,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2014 [YR2014],7.954
+1262,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2014 [YR2014],5.212
+1263,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2014 [YR2014],6.168
+1264,GDP growth (annual %),1,2014 [YR2014],0.905915486065865
+1265,GDP growth (annual %),2,2014 [YR2014],7.46100735778161
+1266,GDP growth (annual %),3,2014 [YR2014],3.21468019683108
+1267,GDP growth (annual %),4,2014 [YR2014],6.42224312118567
+1268,GDP growth (annual %),5,2014 [YR2014],3.93554027709007
+1269,GDP growth (annual %),6,2014 [YR2014],6.00672194558203
+1270,GDP growth (annual %),7,2014 [YR2014],0.984468863619426
+1271,GDP growth (annual %),8,2014 [YR2014],0.997832947295251
+1272,GDP growth (annual %),9,2014 [YR2014],2.18018602168017
+1273,GDP growth (annual %),10,2014 [YR2014],3.16017351468152
+1274,GDP growth (annual %),11,2014 [YR2014],-0.00138761730454462
+1275,GDP growth (annual %),12,2014 [YR2014],2.09521388080101
+1276,GDP growth (annual %),13,2014 [YR2014],1.52048593647231
+1277,GDP growth (annual %),14,2014 [YR2014],2.29577238758284
+1278,GDP growth (annual %),15,2014 [YR2014],0.736267221403651
+1279,GDP growth (annual %),16,2014 [YR2014],2.52381981757846
+1280,"Central government debt, total (% of GDP)",1,2014 [YR2014],..
+1281,"Central government debt, total (% of GDP)",2,2014 [YR2014],..
+1282,"Central government debt, total (% of GDP)",3,2014 [YR2014],34.8171173128439
+1283,"Central government debt, total (% of GDP)",4,2014 [YR2014],..
+1284,"Central government debt, total (% of GDP)",5,2014 [YR2014],99.6097986729595
+1285,"Central government debt, total (% of GDP)",6,2014 [YR2014],52.6758487332831
+1286,"Central government debt, total (% of GDP)",7,2014 [YR2014],35.3904739452699
+1287,"Central government debt, total (% of GDP)",8,2014 [YR2014],..
+1288,"Central government debt, total (% of GDP)",9,2014 [YR2014],..
+1289,"Central government debt, total (% of GDP)",10,2014 [YR2014],149.584281299965
+1290,"Central government debt, total (% of GDP)",11,2014 [YR2014],..
+1291,"Central government debt, total (% of GDP)",12,2014 [YR2014],..
+1292,"Central government debt, total (% of GDP)",13,2014 [YR2014],104.927837414283
+1293,"Central government debt, total (% of GDP)",14,2014 [YR2014],..
+1294,"Central government debt, total (% of GDP)",15,2014 [YR2014],11.2004612827286
+1295,"Central government debt, total (% of GDP)",16,2014 [YR2014],95.6360178458392
+1296,"Inflation, consumer prices (annual %)",1,2014 [YR2014],2.75922671353253
+1297,"Inflation, consumer prices (annual %)",2,2014 [YR2014],1.9216416278852
+1298,"Inflation, consumer prices (annual %)",3,2014 [YR2014],1.27477446401321
+1299,"Inflation, consumer prices (annual %)",4,2014 [YR2014],4.08455446637624
+1300,"Inflation, consumer prices (annual %)",5,2014 [YR2014],1.03316955857629
+1301,"Inflation, consumer prices (annual %)",6,2014 [YR2014],3.14299050879095
+1302,"Inflation, consumer prices (annual %)",7,2014 [YR2014],1.89455652481545
+1303,"Inflation, consumer prices (annual %)",8,2014 [YR2014],0.50773767900035
+1304,"Inflation, consumer prices (annual %)",9,2014 [YR2014],0.906794000434245
+1305,"Inflation, consumer prices (annual %)",10,2014 [YR2014],1.45112016293279
+1306,"Inflation, consumer prices (annual %)",11,2014 [YR2014],0.241056627262265
+1307,"Inflation, consumer prices (annual %)",12,2014 [YR2014],2.05815484025373
+1308,"Inflation, consumer prices (annual %)",13,2014 [YR2014],-0.150921217655048
+1309,"Inflation, consumer prices (annual %)",14,2014 [YR2014],-0.17827377503636
+1310,"Inflation, consumer prices (annual %)",15,2014 [YR2014],7.82016970013844
+1311,"Inflation, consumer prices (annual %)",16,2014 [YR2014],1.62222297740817
+1312,Gini index,1,2014 [YR2014],31.3
+1313,Gini index,2,2014 [YR2014],39.2
+1314,Gini index,3,2014 [YR2014],31.2
+1315,Gini index,4,2014 [YR2014],34.8
+1316,Gini index,5,2014 [YR2014],..
+1317,Gini index,6,2014 [YR2014],..
+1318,Gini index,7,2014 [YR2014],37
+1319,Gini index,8,2014 [YR2014],32.3
+1320,Gini index,9,2014 [YR2014],30.8
+1321,Gini index,10,2014 [YR2014],33.1
+1322,Gini index,11,2014 [YR2014],34.7
+1323,Gini index,12,2014 [YR2014],26.8
+1324,Gini index,13,2014 [YR2014],36.1
+1325,Gini index,14,2014 [YR2014],28.4
+1326,Gini index,15,2014 [YR2014],36.9
+1327,Gini index,16,2014 [YR2014],41.7
+1328,Proportion of people living below 50 percent of median income (%),1,2014 [YR2014],10.7
+1329,Proportion of people living below 50 percent of median income (%),2,2014 [YR2014],15.8
+1330,Proportion of people living below 50 percent of median income (%),3,2014 [YR2014],12.3
+1331,Proportion of people living below 50 percent of median income (%),4,2014 [YR2014],13
+1332,Proportion of people living below 50 percent of median income (%),5,2014 [YR2014],..
+1333,Proportion of people living below 50 percent of median income (%),6,2014 [YR2014],..
+1334,Proportion of people living below 50 percent of median income (%),7,2014 [YR2014],11.3
+1335,Proportion of people living below 50 percent of median income (%),8,2014 [YR2014],10.1
+1336,Proportion of people living below 50 percent of median income (%),9,2014 [YR2014],10.6
+1337,Proportion of people living below 50 percent of median income (%),10,2014 [YR2014],11.8
+1338,Proportion of people living below 50 percent of median income (%),11,2014 [YR2014],15.2
+1339,Proportion of people living below 50 percent of median income (%),12,2014 [YR2014],7.6
+1340,Proportion of people living below 50 percent of median income (%),13,2014 [YR2014],17.3
+1341,Proportion of people living below 50 percent of median income (%),14,2014 [YR2014],9.3
+1342,Proportion of people living below 50 percent of median income (%),15,2014 [YR2014],15.5
+1343,Proportion of people living below 50 percent of median income (%),16,2014 [YR2014],17
+1344,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2015 [YR2015],3.385
+1345,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2015 [YR2015],4.65
+1346,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2015 [YR2015],3.546
+1347,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2015 [YR2015],1.848
+1348,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2015 [YR2015],3.79
+1349,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2015 [YR2015],3.1
+1350,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2015 [YR2015],0.597
+1351,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2015 [YR2015],10.354
+1352,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2015 [YR2015],4.612
+1353,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2015 [YR2015],5.552
+1354,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2015 [YR2015],11.896
+1355,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2015 [YR2015],4.296
+1356,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2015 [YR2015],22.057
+1357,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2015 [YR2015],7.432
+1358,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2015 [YR2015],5.615
+1359,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2015 [YR2015],5.28
+1360,GDP growth (annual %),1,2015 [YR2015],1.79997735783475
+1361,GDP growth (annual %),2,2015 [YR2015],6.98162255562367
+1362,GDP growth (annual %),3,2015 [YR2015],2.92029267301234
+1363,GDP growth (annual %),4,2015 [YR2015],6.98715430598611
+1364,GDP growth (annual %),5,2015 [YR2015],2.97679931634806
+1365,GDP growth (annual %),6,2015 [YR2015],5.09153242155011
+1366,GDP growth (annual %),7,2015 [YR2015],3.13404724911635
+1367,GDP growth (annual %),8,2015 [YR2015],1.06675474783462
+1368,GDP growth (annual %),9,2015 [YR2015],1.66300602334775
+1369,GDP growth (annual %),10,2015 [YR2015],2.14040560033371
+1370,GDP growth (annual %),11,2015 [YR2015],0.885667635240807
+1371,GDP growth (annual %),12,2015 [YR2015],2.04428845501438
+1372,GDP growth (annual %),13,2015 [YR2015],4.06086672473866
+1373,GDP growth (annual %),14,2015 [YR2015],4.38824673608589
+1374,GDP growth (annual %),15,2015 [YR2015],-1.9727192264298
+1375,GDP growth (annual %),16,2015 [YR2015],2.94555045227337
+1376,"Central government debt, total (% of GDP)",1,2015 [YR2015],..
+1377,"Central government debt, total (% of GDP)",2,2015 [YR2015],..
+1378,"Central government debt, total (% of GDP)",3,2015 [YR2015],35.7105611200011
+1379,"Central government debt, total (% of GDP)",4,2015 [YR2015],..
+1380,"Central government debt, total (% of GDP)",5,2015 [YR2015],103.320839751929
+1381,"Central government debt, total (% of GDP)",6,2015 [YR2015],53.5744697326154
+1382,"Central government debt, total (% of GDP)",7,2015 [YR2015],36.6705695355179
+1383,"Central government debt, total (% of GDP)",8,2015 [YR2015],..
+1384,"Central government debt, total (% of GDP)",9,2015 [YR2015],..
+1385,"Central government debt, total (% of GDP)",10,2015 [YR2015],147.063146778865
+1386,"Central government debt, total (% of GDP)",11,2015 [YR2015],..
+1387,"Central government debt, total (% of GDP)",12,2015 [YR2015],..
+1388,"Central government debt, total (% of GDP)",13,2015 [YR2015],104.513601500945
+1389,"Central government debt, total (% of GDP)",14,2015 [YR2015],..
+1390,"Central government debt, total (% of GDP)",15,2015 [YR2015],13.5407657768558
+1391,"Central government debt, total (% of GDP)",16,2015 [YR2015],96.1410808045622
+1392,"Inflation, consumer prices (annual %)",1,2015 [YR2015],0.795279630579839
+1393,"Inflation, consumer prices (annual %)",2,2015 [YR2015],1.43702380935654
+1394,"Inflation, consumer prices (annual %)",3,2015 [YR2015],0.706331772455749
+1395,"Inflation, consumer prices (annual %)",4,2015 [YR2015],0.631200905175684
+1396,"Inflation, consumer prices (annual %)",5,2015 [YR2015],-0.521975611895762
+1397,"Inflation, consumer prices (annual %)",6,2015 [YR2015],2.10438980238358
+1398,"Inflation, consumer prices (annual %)",7,2015 [YR2015],-0.898143410569433
+1399,"Inflation, consumer prices (annual %)",8,2015 [YR2015],0.0403331518341644
+1400,"Inflation, consumer prices (annual %)",9,2015 [YR2015],0.514426137125456
+1401,"Inflation, consumer prices (annual %)",10,2015 [YR2015],0.36804684232536
+1402,"Inflation, consumer prices (annual %)",11,2015 [YR2015],0.0387880546123783
+1403,"Inflation, consumer prices (annual %)",12,2015 [YR2015],2.15734552702538
+1404,"Inflation, consumer prices (annual %)",13,2015 [YR2015],-0.500327420149904
+1405,"Inflation, consumer prices (annual %)",14,2015 [YR2015],-0.0464339610847765
+1406,"Inflation, consumer prices (annual %)",15,2015 [YR2015],15.5343959935701
+1407,"Inflation, consumer prices (annual %)",16,2015 [YR2015],0.11862713555245
+1408,Gini index,1,2015 [YR2015],30.7
+1409,Gini index,2,2015 [YR2015],38.6
+1410,Gini index,3,2015 [YR2015],..
+1411,Gini index,4,2015 [YR2015],..
+1412,Gini index,5,2015 [YR2015],..
+1413,Gini index,6,2015 [YR2015],41.1
+1414,Gini index,7,2015 [YR2015],36
+1415,Gini index,8,2015 [YR2015],32.7
+1416,Gini index,9,2015 [YR2015],31.4
+1417,Gini index,10,2015 [YR2015],33.3
+1418,Gini index,11,2015 [YR2015],35.4
+1419,Gini index,12,2015 [YR2015],27.5
+1420,Gini index,13,2015 [YR2015],36.2
+1421,Gini index,14,2015 [YR2015],29.2
+1422,Gini index,15,2015 [YR2015],36.5
+1423,Gini index,16,2015 [YR2015],41.5
+1424,Proportion of people living below 50 percent of median income (%),1,2015 [YR2015],11.3
+1425,Proportion of people living below 50 percent of median income (%),2,2015 [YR2015],15.2
+1426,Proportion of people living below 50 percent of median income (%),3,2015 [YR2015],..
+1427,Proportion of people living below 50 percent of median income (%),4,2015 [YR2015],..
+1428,Proportion of people living below 50 percent of median income (%),5,2015 [YR2015],..
+1429,Proportion of people living below 50 percent of median income (%),6,2015 [YR2015],16.4
+1430,Proportion of people living below 50 percent of median income (%),7,2015 [YR2015],10
+1431,Proportion of people living below 50 percent of median income (%),8,2015 [YR2015],10.8
+1432,Proportion of people living below 50 percent of median income (%),9,2015 [YR2015],10.5
+1433,Proportion of people living below 50 percent of median income (%),10,2015 [YR2015],11.9
+1434,Proportion of people living below 50 percent of median income (%),11,2015 [YR2015],16.1
+1435,Proportion of people living below 50 percent of median income (%),12,2015 [YR2015],8
+1436,Proportion of people living below 50 percent of median income (%),13,2015 [YR2015],17.4
+1437,Proportion of people living below 50 percent of median income (%),14,2015 [YR2015],9.6
+1438,Proportion of people living below 50 percent of median income (%),15,2015 [YR2015],15.9
+1439,Proportion of people living below 50 percent of median income (%),16,2015 [YR2015],17.2
+1440,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2016 [YR2016],3.132
+1441,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2016 [YR2016],4.56
+1442,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2016 [YR2016],3.65
+1443,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2016 [YR2016],1.848
+1444,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2016 [YR2016],4.08
+1445,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2016 [YR2016],3.44
+1446,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2016 [YR2016],0.688
+1447,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2016 [YR2016],10.057
+1448,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2016 [YR2016],4.104
+1449,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2016 [YR2016],4.909
+1450,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2016 [YR2016],11.688
+1451,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2016 [YR2016],4.68
+1452,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2016 [YR2016],19.635
+1453,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2016 [YR2016],6.99
+1454,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2016 [YR2016],5.591
+1455,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2016 [YR2016],4.869
+1456,GDP growth (annual %),1,2016 [YR2016],0.704986495111257
+1457,GDP growth (annual %),2,2016 [YR2016],6.7736886867727
+1458,GDP growth (annual %),3,2016 [YR2016],3.17152748983935
+1459,GDP growth (annual %),4,2016 [YR2016],6.69000892660424
+1460,GDP growth (annual %),5,2016 [YR2016],3.91095306322606
+1461,GDP growth (annual %),6,2016 [YR2016],4.44978139761541
+1462,GDP growth (annual %),7,2016 [YR2016],3.43515771692182
+1463,GDP growth (annual %),8,2016 [YR2016],0.860031075424033
+1464,GDP growth (annual %),9,2016 [YR2016],2.22222216259371
+1465,GDP growth (annual %),10,2016 [YR2016],2.20652020635357
+1466,GDP growth (annual %),11,2016 [YR2016],1.23622108511661
+1467,GDP growth (annual %),12,2016 [YR2016],1.29158732771135
+1468,GDP growth (annual %),13,2016 [YR2016],2.91515598595787
+1469,GDP growth (annual %),14,2016 [YR2016],2.13117914731151
+1470,GDP growth (annual %),15,2016 [YR2016],0.193671130698817
+1471,GDP growth (annual %),16,2016 [YR2016],1.81945147909089
+1472,"Central government debt, total (% of GDP)",1,2016 [YR2016],..
+1473,"Central government debt, total (% of GDP)",2,2016 [YR2016],..
+1474,"Central government debt, total (% of GDP)",3,2016 [YR2016],36.1498684786294
+1475,"Central government debt, total (% of GDP)",4,2016 [YR2016],..
+1476,"Central government debt, total (% of GDP)",5,2016 [YR2016],108.476641908311
+1477,"Central government debt, total (% of GDP)",6,2016 [YR2016],51.8905275342534
+1478,"Central government debt, total (% of GDP)",7,2016 [YR2016],37.3065204045664
+1479,"Central government debt, total (% of GDP)",8,2016 [YR2016],..
+1480,"Central government debt, total (% of GDP)",9,2016 [YR2016],..
+1481,"Central government debt, total (% of GDP)",10,2016 [YR2016],155.581504971929
+1482,"Central government debt, total (% of GDP)",11,2016 [YR2016],..
+1483,"Central government debt, total (% of GDP)",12,2016 [YR2016],..
+1484,"Central government debt, total (% of GDP)",13,2016 [YR2016],105.968137016467
+1485,"Central government debt, total (% of GDP)",14,2016 [YR2016],..
+1486,"Central government debt, total (% of GDP)",15,2016 [YR2016],14.2417395793548
+1487,"Central government debt, total (% of GDP)",16,2016 [YR2016],98.1169229551873
+1488,"Inflation, consumer prices (annual %)",1,2016 [YR2016],-0.127258844489753
+1489,"Inflation, consumer prices (annual %)",2,2016 [YR2016],2.00000182191943
+1490,"Inflation, consumer prices (annual %)",3,2016 [YR2016],0.971685739912167
+1491,"Inflation, consumer prices (annual %)",4,2016 [YR2016],2.66824816969082
+1492,"Inflation, consumer prices (annual %)",5,2016 [YR2016],-0.529809760375464
+1493,"Inflation, consumer prices (annual %)",6,2016 [YR2016],2.09056659525742
+1494,"Inflation, consumer prices (annual %)",7,2016 [YR2016],0.186235191075453
+1495,"Inflation, consumer prices (annual %)",8,2016 [YR2016],0.184449775233288
+1496,"Inflation, consumer prices (annual %)",9,2016 [YR2016],0.491747008445174
+1497,"Inflation, consumer prices (annual %)",10,2016 [YR2016],1.00841736811409
+1498,"Inflation, consumer prices (annual %)",11,2016 [YR2016],-0.0940663867932015
+1499,"Inflation, consumer prices (annual %)",12,2016 [YR2016],3.54642488235977
+1500,"Inflation, consumer prices (annual %)",13,2016 [YR2016],-0.202721903367454
+1501,"Inflation, consumer prices (annual %)",14,2016 [YR2016],0.98181980613754
+1502,"Inflation, consumer prices (annual %)",15,2016 [YR2016],7.04243725413707
+1503,"Inflation, consumer prices (annual %)",16,2016 [YR2016],1.26158320570535
+1504,Gini index,1,2016 [YR2016],31.8
+1505,Gini index,2,2016 [YR2016],38.5
+1506,Gini index,3,2016 [YR2016],35.2
+1507,Gini index,4,2016 [YR2016],35.3
+1508,Gini index,5,2016 [YR2016],..
+1509,Gini index,6,2016 [YR2016],..
+1510,Gini index,7,2016 [YR2016],36.7
+1511,Gini index,8,2016 [YR2016],31.9
+1512,Gini index,9,2016 [YR2016],31.3
+1513,Gini index,10,2016 [YR2016],33.1
+1514,Gini index,11,2016 [YR2016],35.2
+1515,Gini index,12,2016 [YR2016],28.5
+1516,Gini index,13,2016 [YR2016],35.8
+1517,Gini index,14,2016 [YR2016],29.6
+1518,Gini index,15,2016 [YR2016],36.7
+1519,Gini index,16,2016 [YR2016],41.3
+1520,Proportion of people living below 50 percent of median income (%),1,2016 [YR2016],12.5
+1521,Proportion of people living below 50 percent of median income (%),2,2016 [YR2016],14.9
+1522,Proportion of people living below 50 percent of median income (%),3,2016 [YR2016],15.5
+1523,Proportion of people living below 50 percent of median income (%),4,2016 [YR2016],13.4
+1524,Proportion of people living below 50 percent of median income (%),5,2016 [YR2016],..
+1525,Proportion of people living below 50 percent of median income (%),6,2016 [YR2016],..
+1526,Proportion of people living below 50 percent of median income (%),7,2016 [YR2016],10.7
+1527,Proportion of people living below 50 percent of median income (%),8,2016 [YR2016],10.4
+1528,Proportion of people living below 50 percent of median income (%),9,2016 [YR2016],10.7
+1529,Proportion of people living below 50 percent of median income (%),10,2016 [YR2016],12.2
+1530,Proportion of people living below 50 percent of median income (%),11,2016 [YR2016],15.7
+1531,Proportion of people living below 50 percent of median income (%),12,2016 [YR2016],9.2
+1532,Proportion of people living below 50 percent of median income (%),13,2016 [YR2016],16.9
+1533,Proportion of people living below 50 percent of median income (%),14,2016 [YR2016],10.4
+1534,Proportion of people living below 50 percent of median income (%),15,2016 [YR2016],15.4
+1535,Proportion of people living below 50 percent of median income (%),16,2016 [YR2016],17.9
+1536,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2017 [YR2017],2.822
+1537,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2017 [YR2017],4.47
+1538,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2017 [YR2017],3.653
+1539,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2017 [YR2017],1.874
+1540,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2017 [YR2017],4.2
+1541,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2017 [YR2017],3.41
+1542,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2017 [YR2017],0.83
+1543,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2017 [YR2017],9.409
+1544,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2017 [YR2017],3.781
+1545,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2017 [YR2017],4.501
+1546,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2017 [YR2017],11.211
+1547,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2017 [YR2017],4.164
+1548,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2017 [YR2017],17.224
+1549,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2017 [YR2017],6.718
+1550,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2017 [YR2017],5.238
+1551,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2017 [YR2017],4.355
+1552,GDP growth (annual %),1,2017 [YR2017],1.62345062245441
+1553,GDP growth (annual %),2,2017 [YR2017],6.89123916636191
+1554,GDP growth (annual %),3,2017 [YR2017],3.433191763972
+1555,GDP growth (annual %),4,2017 [YR2017],6.94019037359206
+1556,GDP growth (annual %),5,2017 [YR2017],4.32679370770501
+1557,GDP growth (annual %),6,2017 [YR2017],5.81272240983328
+1558,GDP growth (annual %),7,2017 [YR2017],4.1776810321001
+1559,GDP growth (annual %),8,2017 [YR2017],2.08361485997399
+1560,GDP growth (annual %),9,2017 [YR2017],2.797906720551
+1561,GDP growth (annual %),10,2017 [YR2017],3.02322219840339
+1562,GDP growth (annual %),11,2017 [YR2017],1.60369995294101
+1563,GDP growth (annual %),12,2017 [YR2017],2.66964474273466
+1564,GDP growth (annual %),13,2017 [YR2017],2.89604207865007
+1565,GDP growth (annual %),14,2017 [YR2017],1.88282184966646
+1566,GDP growth (annual %),15,2017 [YR2017],1.82670527549192
+1567,GDP growth (annual %),16,2017 [YR2017],2.45762230126449
+1568,"Central government debt, total (% of GDP)",1,2017 [YR2017],..
+1569,"Central government debt, total (% of GDP)",2,2017 [YR2017],..
+1570,"Central government debt, total (% of GDP)",3,2017 [YR2017],35.4459831845843
+1571,"Central government debt, total (% of GDP)",4,2017 [YR2017],..
+1572,"Central government debt, total (% of GDP)",5,2017 [YR2017],108.841755783324
+1573,"Central government debt, total (% of GDP)",6,2017 [YR2017],50.0496777374929
+1574,"Central government debt, total (% of GDP)",7,2017 [YR2017],..
+1575,"Central government debt, total (% of GDP)",8,2017 [YR2017],..
+1576,"Central government debt, total (% of GDP)",9,2017 [YR2017],..
+1577,"Central government debt, total (% of GDP)",10,2017 [YR2017],160.141177233502
+1578,"Central government debt, total (% of GDP)",11,2017 [YR2017],..
+1579,"Central government debt, total (% of GDP)",12,2017 [YR2017],..
+1580,"Central government debt, total (% of GDP)",13,2017 [YR2017],106.577780516625
+1581,"Central government debt, total (% of GDP)",14,2017 [YR2017],..
+1582,"Central government debt, total (% of GDP)",15,2017 [YR2017],16.3253741158845
+1583,"Central government debt, total (% of GDP)",16,2017 [YR2017],97.2074691432871
+1584,"Inflation, consumer prices (annual %)",1,2017 [YR2017],0.484199796126385
+1585,"Inflation, consumer prices (annual %)",2,2017 [YR2017],1.59313600071435
+1586,"Inflation, consumer prices (annual %)",3,2017 [YR2017],1.94433230786366
+1587,"Inflation, consumer prices (annual %)",4,2017 [YR2017],3.52025688811617
+1588,"Inflation, consumer prices (annual %)",5,2017 [YR2017],0.576763191179995
+1589,"Inflation, consumer prices (annual %)",6,2017 [YR2017],3.87120115774237
+1590,"Inflation, consumer prices (annual %)",7,2017 [YR2017],0.664415139830892
+1591,"Inflation, consumer prices (annual %)",8,2017 [YR2017],1.02920611286052
+1592,"Inflation, consumer prices (annual %)",9,2017 [YR2017],1.50949485109628
+1593,"Inflation, consumer prices (annual %)",10,2017 [YR2017],2.55775577557747
+1594,"Inflation, consumer prices (annual %)",11,2017 [YR2017],1.22652881401135
+1595,"Inflation, consumer prices (annual %)",12,2017 [YR2017],1.90645089780532
+1596,"Inflation, consumer prices (annual %)",13,2017 [YR2017],1.95575728963107
+1597,"Inflation, consumer prices (annual %)",14,2017 [YR2017],1.79945856998777
+1598,"Inflation, consumer prices (annual %)",15,2017 [YR2017],3.68333072334495
+1599,"Inflation, consumer prices (annual %)",16,2017 [YR2017],2.13011000365961
+1600,Gini index,1,2017 [YR2017],31.8
+1601,Gini index,2,2017 [YR2017],39
+1602,Gini index,3,2017 [YR2017],34.9
+1603,Gini index,4,2017 [YR2017],..
+1604,Gini index,5,2017 [YR2017],..
+1605,Gini index,6,2017 [YR2017],..
+1606,Gini index,7,2017 [YR2017],36.4
+1607,Gini index,8,2017 [YR2017],31.6
+1608,Gini index,9,2017 [YR2017],31.3
+1609,Gini index,10,2017 [YR2017],32.6
+1610,Gini index,11,2017 [YR2017],35.9
+1611,Gini index,12,2017 [YR2017],27
+1612,Gini index,13,2017 [YR2017],34.7
+1613,Gini index,14,2017 [YR2017],28.8
+1614,Gini index,15,2017 [YR2017],35.5
+1615,Gini index,16,2017 [YR2017],41.4
+1616,Proportion of people living below 50 percent of median income (%),1,2017 [YR2017],11.7
+1617,Proportion of people living below 50 percent of median income (%),2,2017 [YR2017],15.2
+1618,Proportion of people living below 50 percent of median income (%),3,2017 [YR2017],15.3
+1619,Proportion of people living below 50 percent of median income (%),4,2017 [YR2017],..
+1620,Proportion of people living below 50 percent of median income (%),5,2017 [YR2017],..
+1621,Proportion of people living below 50 percent of median income (%),6,2017 [YR2017],..
+1622,Proportion of people living below 50 percent of median income (%),7,2017 [YR2017],11
+1623,Proportion of people living below 50 percent of median income (%),8,2017 [YR2017],10.1
+1624,Proportion of people living below 50 percent of median income (%),9,2017 [YR2017],10.6
+1625,Proportion of people living below 50 percent of median income (%),10,2017 [YR2017],12.5
+1626,Proportion of people living below 50 percent of median income (%),11,2017 [YR2017],16
+1627,Proportion of people living below 50 percent of median income (%),12,2017 [YR2017],8.2
+1628,Proportion of people living below 50 percent of median income (%),13,2017 [YR2017],16.1
+1629,Proportion of people living below 50 percent of median income (%),14,2017 [YR2017],10.1
+1630,Proportion of people living below 50 percent of median income (%),15,2017 [YR2017],14.7
+1631,Proportion of people living below 50 percent of median income (%),16,2017 [YR2017],18.3
+1632,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2018 [YR2018],2.467
+1633,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2018 [YR2018],4.31
+1634,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2018 [YR2018],3.824
+1635,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2018 [YR2018],1.161
+1636,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2018 [YR2018],3.613
+1637,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2018 [YR2018],3.3
+1638,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2018 [YR2018],0.765
+1639,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2018 [YR2018],9.018
+1640,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2018 [YR2018],3.384
+1641,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2018 [YR2018],4.145
+1642,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2018 [YR2018],10.538
+1643,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2018 [YR2018],3.801
+1644,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2018 [YR2018],15.255
+1645,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2018 [YR2018],6.365
+1646,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2018 [YR2018],4.871
+1647,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2018 [YR2018],3.896
+1648,GDP growth (annual %),1,2018 [YR2018],0.834143845965585
+1649,GDP growth (annual %),2,2018 [YR2018],6.757806142324
+1650,GDP growth (annual %),3,2018 [YR2018],3.17611568177327
+1651,GDP growth (annual %),4,2018 [YR2018],7.46500685572751
+1652,GDP growth (annual %),5,2018 [YR2018],3.18660848474074
+1653,GDP growth (annual %),6,2018 [YR2018],4.84308697634881
+1654,GDP growth (annual %),7,2018 [YR2018],4.22287028746071
+1655,GDP growth (annual %),8,2018 [YR2018],1.64590872395887
+1656,GDP growth (annual %),9,2018 [YR2018],1.13569604599849
+1657,GDP growth (annual %),10,2018 [YR2018],1.55133095078786
+1658,GDP growth (annual %),11,2018 [YR2018],0.826646712344115
+1659,GDP growth (annual %),12,2018 [YR2018],1.1103912365576
+1660,GDP growth (annual %),13,2018 [YR2018],2.39541124478878
+1661,GDP growth (annual %),14,2018 [YR2018],1.7702553546772
+1662,GDP growth (annual %),15,2018 [YR2018],2.80634082046656
+1663,GDP growth (annual %),16,2018 [YR2018],2.96650506701943
+1664,"Central government debt, total (% of GDP)",1,2018 [YR2018],..
+1665,"Central government debt, total (% of GDP)",2,2018 [YR2018],..
+1666,"Central government debt, total (% of GDP)",3,2018 [YR2018],35.5200546750178
+1667,"Central government debt, total (% of GDP)",4,2018 [YR2018],..
+1668,"Central government debt, total (% of GDP)",5,2018 [YR2018],110.440057046779
+1669,"Central government debt, total (% of GDP)",6,2018 [YR2018],51.1859148831795
+1670,"Central government debt, total (% of GDP)",7,2018 [YR2018],37.9104188436045
+1671,"Central government debt, total (% of GDP)",8,2018 [YR2018],..
+1672,"Central government debt, total (% of GDP)",9,2018 [YR2018],..
+1673,"Central government debt, total (% of GDP)",10,2018 [YR2018],156.766820519267
+1674,"Central government debt, total (% of GDP)",11,2018 [YR2018],..
+1675,"Central government debt, total (% of GDP)",12,2018 [YR2018],..
+1676,"Central government debt, total (% of GDP)",13,2018 [YR2018],107.203121919581
+1677,"Central government debt, total (% of GDP)",14,2018 [YR2018],..
+1678,"Central government debt, total (% of GDP)",15,2018 [YR2018],16.1685789853238
+1679,"Central government debt, total (% of GDP)",16,2018 [YR2018],98.62934291533
+1680,"Inflation, consumer prices (annual %)",1,2018 [YR2018],0.989094598021848
+1681,"Inflation, consumer prices (annual %)",2,2018 [YR2018],2.07479039965576
+1682,"Inflation, consumer prices (annual %)",3,2018 [YR2018],1.47583935002645
+1683,"Inflation, consumer prices (annual %)",4,2018 [YR2018],3.53962805942641
+1684,"Inflation, consumer prices (annual %)",5,2018 [YR2018],0.438784215129622
+1685,"Inflation, consumer prices (annual %)",6,2018 [YR2018],0.884709160571235
+1686,"Inflation, consumer prices (annual %)",7,2018 [YR2018],1.06683487370757
+1687,"Inflation, consumer prices (annual %)",8,2018 [YR2018],1.85222067317272
+1688,"Inflation, consumer prices (annual %)",9,2018 [YR2018],1.73216879766941
+1689,"Inflation, consumer prices (annual %)",10,2018 [YR2018],2.29283990345937
+1690,"Inflation, consumer prices (annual %)",11,2018 [YR2018],1.13748587578675
+1691,"Inflation, consumer prices (annual %)",12,2018 [YR2018],2.74091798999347
+1692,"Inflation, consumer prices (annual %)",13,2018 [YR2018],1.67539821465287
+1693,"Inflation, consumer prices (annual %)",14,2018 [YR2018],1.95015121493372
+1694,"Inflation, consumer prices (annual %)",15,2018 [YR2018],2.8783138261498
+1695,"Inflation, consumer prices (annual %)",16,2018 [YR2018],2.44258329692816
+1696,Gini index,1,2018 [YR2018],32.9
+1697,Gini index,2,2018 [YR2018],38.5
+1698,Gini index,3,2018 [YR2018],33.7
+1699,Gini index,4,2018 [YR2018],35.7
+1700,Gini index,5,2018 [YR2018],..
+1701,Gini index,6,2018 [YR2018],41.2
+1702,Gini index,7,2018 [YR2018],36.4
+1703,Gini index,8,2018 [YR2018],32.4
+1704,Gini index,9,2018 [YR2018],31.9
+1705,Gini index,10,2018 [YR2018],33.7
+1706,Gini index,11,2018 [YR2018],35.2
+1707,Gini index,12,2018 [YR2018],27.6
+1708,Gini index,13,2018 [YR2018],34.7
+1709,Gini index,14,2018 [YR2018],30
+1710,Gini index,15,2018 [YR2018],35.3
+1711,Gini index,16,2018 [YR2018],41.8
+1712,Proportion of people living below 50 percent of median income (%),1,2018 [YR2018],14.2
+1713,Proportion of people living below 50 percent of median income (%),2,2018 [YR2018],14.9
+1714,Proportion of people living below 50 percent of median income (%),3,2018 [YR2018],14.2
+1715,Proportion of people living below 50 percent of median income (%),4,2018 [YR2018],14
+1716,Proportion of people living below 50 percent of median income (%),5,2018 [YR2018],..
+1717,Proportion of people living below 50 percent of median income (%),6,2018 [YR2018],17
+1718,Proportion of people living below 50 percent of median income (%),7,2018 [YR2018],11.3
+1719,Proportion of people living below 50 percent of median income (%),8,2018 [YR2018],10
+1720,Proportion of people living below 50 percent of median income (%),9,2018 [YR2018],10.6
+1721,Proportion of people living below 50 percent of median income (%),10,2018 [YR2018],12.3
+1722,Proportion of people living below 50 percent of median income (%),11,2018 [YR2018],15.2
+1723,Proportion of people living below 50 percent of median income (%),12,2018 [YR2018],8
+1724,Proportion of people living below 50 percent of median income (%),13,2018 [YR2018],15.7
+1725,Proportion of people living below 50 percent of median income (%),14,2018 [YR2018],10.8
+1726,Proportion of people living below 50 percent of median income (%),15,2018 [YR2018],14.4
+1727,Proportion of people living below 50 percent of median income (%),16,2018 [YR2018],18.2
+1728,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2019 [YR2019],2.351
+1729,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2019 [YR2019],4.56
+1730,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2019 [YR2019],3.746
+1731,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2019 [YR2019],1.681
+1732,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2019 [YR2019],3.1
+1733,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2019 [YR2019],3.33
+1734,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2019 [YR2019],0.716
+1735,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2019 [YR2019],8.415
+1736,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2019 [YR2019],3.163
+1737,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2019 [YR2019],3.657
+1738,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2019 [YR2019],9.884
+1739,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2019 [YR2019],3.684
+1740,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2019 [YR2019],14.104
+1741,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2019 [YR2019],6.833
+1742,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2019 [YR2019],4.513
+1743,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2019 [YR2019],3.669
+1744,GDP growth (annual %),1,2019 [YR2019],-0.308496921143259
+1745,GDP growth (annual %),2,2019 [YR2019],6.06737806333672
+1746,GDP growth (annual %),3,2019 [YR2019],2.31380210595475
+1747,GDP growth (annual %),4,2019 [YR2019],7.35926270105006
+1748,GDP growth (annual %),5,2019 [YR2019],1.15877947300108
+1749,GDP growth (annual %),6,2019 [YR2019],4.41318742129586
+1750,GDP growth (annual %),7,2019 [YR2019],2.11455779628278
+1751,GDP growth (annual %),8,2019 [YR2019],2.02744646419237
+1752,GDP growth (annual %),9,2019 [YR2019],0.977734697038784
+1753,GDP growth (annual %),10,2019 [YR2019],1.25629899760824
+1754,GDP growth (annual %),11,2019 [YR2019],0.429162533780342
+1755,GDP growth (annual %),12,2019 [YR2019],1.46970781954143
+1756,GDP growth (annual %),13,2019 [YR2019],1.96117850841711
+1757,GDP growth (annual %),14,2019 [YR2019],2.60823012869524
+1758,GDP growth (annual %),15,2019 [YR2019],2.19807571381982
+1759,GDP growth (annual %),16,2019 [YR2019],2.58382533052225
+1760,"Central government debt, total (% of GDP)",1,2019 [YR2019],..
+1761,"Central government debt, total (% of GDP)",2,2019 [YR2019],..
+1762,"Central government debt, total (% of GDP)",3,2019 [YR2019],37.6954834097738
+1763,"Central government debt, total (% of GDP)",4,2019 [YR2019],..
+1764,"Central government debt, total (% of GDP)",5,2019 [YR2019],127.851935478091
+1765,"Central government debt, total (% of GDP)",6,2019 [YR2019],52.4213502119727
+1766,"Central government debt, total (% of GDP)",7,2019 [YR2019],38.6277055941279
+1767,"Central government debt, total (% of GDP)",8,2019 [YR2019],..
+1768,"Central government debt, total (% of GDP)",9,2019 [YR2019],..
+1769,"Central government debt, total (% of GDP)",10,2019 [YR2019],158.972569875821
+1770,"Central government debt, total (% of GDP)",11,2019 [YR2019],..
+1771,"Central government debt, total (% of GDP)",12,2019 [YR2019],..
+1772,"Central government debt, total (% of GDP)",13,2019 [YR2019],111.293101240882
+1773,"Central government debt, total (% of GDP)",14,2019 [YR2019],..
+1774,"Central government debt, total (% of GDP)",15,2019 [YR2019],17.2760484379376
+1775,"Central government debt, total (% of GDP)",16,2019 [YR2019],100.234364169849
+1776,"Inflation, consumer prices (annual %)",1,2019 [YR2019],0.468776159383949
+1777,"Inflation, consumer prices (annual %)",2,2019 [YR2019],2.89923416358226
+1778,"Inflation, consumer prices (annual %)",3,2019 [YR2019],0.383000303608135
+1779,"Inflation, consumer prices (annual %)",4,2019 [YR2019],2.79582367452243
+1780,"Inflation, consumer prices (annual %)",5,2019 [YR2019],0.567829988405447
+1781,"Inflation, consumer prices (annual %)",6,2019 [YR2019],0.662891865764326
+1782,"Inflation, consumer prices (annual %)",7,2019 [YR2019],0.705524801910316
+1783,"Inflation, consumer prices (annual %)",8,2019 [YR2019],1.1067657411029
+1784,"Inflation, consumer prices (annual %)",9,2019 [YR2019],1.44565976888253
+1785,"Inflation, consumer prices (annual %)",10,2019 [YR2019],1.73810460086512
+1786,"Inflation, consumer prices (annual %)",11,2019 [YR2019],0.611249440506398
+1787,"Inflation, consumer prices (annual %)",12,2019 [YR2019],2.17023078551767
+1788,"Inflation, consumer prices (annual %)",13,2019 [YR2019],0.699267137814226
+1789,"Inflation, consumer prices (annual %)",14,2019 [YR2019],1.78413120567382
+1790,"Inflation, consumer prices (annual %)",15,2019 [YR2019],4.47202631837903
+1791,"Inflation, consumer prices (annual %)",16,2019 [YR2019],1.8122100752602
+1792,Gini index,1,2019 [YR2019],33
+1793,Gini index,2,2019 [YR2019],38.2
+1794,Gini index,3,2019 [YR2019],33.2
+1795,Gini index,4,2019 [YR2019],..
+1796,Gini index,5,2019 [YR2019],..
+1797,Gini index,6,2019 [YR2019],..
+1798,Gini index,7,2019 [YR2019],34.9
+1799,Gini index,8,2019 [YR2019],31.2
+1800,Gini index,9,2019 [YR2019],32.2
+1801,Gini index,10,2019 [YR2019],32.8
+1802,Gini index,11,2019 [YR2019],34.6
+1803,Gini index,12,2019 [YR2019],27.7
+1804,Gini index,13,2019 [YR2019],34.3
+1805,Gini index,14,2019 [YR2019],29.3
+1806,Gini index,15,2019 [YR2019],35.7
+1807,Gini index,16,2019 [YR2019],41.9
+1808,Proportion of people living below 50 percent of median income (%),1,2019 [YR2019],13.3
+1809,Proportion of people living below 50 percent of median income (%),2,2019 [YR2019],14
+1810,Proportion of people living below 50 percent of median income (%),3,2019 [YR2019],13.5
+1811,Proportion of people living below 50 percent of median income (%),4,2019 [YR2019],..
+1812,Proportion of people living below 50 percent of median income (%),5,2019 [YR2019],..
+1813,Proportion of people living below 50 percent of median income (%),6,2019 [YR2019],..
+1814,Proportion of people living below 50 percent of median income (%),7,2019 [YR2019],9.6
+1815,Proportion of people living below 50 percent of median income (%),8,2019 [YR2019],11.6
+1816,Proportion of people living below 50 percent of median income (%),9,2019 [YR2019],11
+1817,Proportion of people living below 50 percent of median income (%),10,2019 [YR2019],13
+1818,Proportion of people living below 50 percent of median income (%),11,2019 [YR2019],15
+1819,Proportion of people living below 50 percent of median income (%),12,2019 [YR2019],8.3
+1820,Proportion of people living below 50 percent of median income (%),13,2019 [YR2019],15.9
+1821,Proportion of people living below 50 percent of median income (%),14,2019 [YR2019],10.2
+1822,Proportion of people living below 50 percent of median income (%),15,2019 [YR2019],14
+1823,Proportion of people living below 50 percent of median income (%),16,2019 [YR2019],18.6
+1824,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2020 [YR2020],2.809
+1825,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2020 [YR2020],5
+1826,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2020 [YR2020],3.931
+1827,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2020 [YR2020],2.103
+1828,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2020 [YR2020],4.1
+1829,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2020 [YR2020],4.54
+1830,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2020 [YR2020],1.099
+1831,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2020 [YR2020],8.009
+1832,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2020 [YR2020],3.881
+1833,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2020 [YR2020],4.472
+1834,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2020 [YR2020],9.192
+1835,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2020 [YR2020],4.424
+1836,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2020 [YR2020],15.532
+1837,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2020 [YR2020],8.291
+1838,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2020 [YR2020],5.62
+1839,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2020 [YR2020],8.055
+1840,GDP growth (annual %),1,2020 [YR2020],-4.28327942675573
+1841,GDP growth (annual %),2,2020 [YR2020],2.33950385203023
+1842,GDP growth (annual %),3,2020 [YR2020],-0.700242317542106
+1843,GDP growth (annual %),4,2020 [YR2020],2.86541320912272
+1844,GDP growth (annual %),5,2020 [YR2020],-3.61084281729929
+1845,GDP growth (annual %),6,2020 [YR2020],-5.45684658426701
+1846,GDP growth (annual %),7,2020 [YR2020],-6.09306312966953
+1847,GDP growth (annual %),8,2020 [YR2020],-7.44064589948231
+1848,GDP growth (annual %),9,2020 [YR2020],-4.13191443239947
+1849,GDP growth (annual %),10,2020 [YR2020],-10.047896637362
+1850,GDP growth (annual %),11,2020 [YR2020],-8.86822122185345
+1851,GDP growth (annual %),12,2020 [YR2020],-1.36055723261586
+1852,GDP growth (annual %),13,2020 [YR2020],-10.9400706350371
+1853,GDP growth (annual %),14,2020 [YR2020],-1.93379704032216
+1854,GDP growth (annual %),15,2020 [YR2020],-2.65365449695453
+1855,GDP growth (annual %),16,2020 [YR2020],-2.081375977796
+1856,"Central government debt, total (% of GDP)",1,2020 [YR2020],..
+1857,"Central government debt, total (% of GDP)",2,2020 [YR2020],..
+1858,"Central government debt, total (% of GDP)",3,2020 [YR2020],43.775799174588
+1859,"Central government debt, total (% of GDP)",4,2020 [YR2020],..
+1860,"Central government debt, total (% of GDP)",5,2020 [YR2020],150.816252807492
+1861,"Central government debt, total (% of GDP)",6,2020 [YR2020],62.0067215086738
+1862,"Central government debt, total (% of GDP)",7,2020 [YR2020],50.3415889301099
+1863,"Central government debt, total (% of GDP)",8,2020 [YR2020],..
+1864,"Central government debt, total (% of GDP)",9,2020 [YR2020],..
+1865,"Central government debt, total (% of GDP)",10,2020 [YR2020],194.682828796265
+1866,"Central government debt, total (% of GDP)",11,2020 [YR2020],..
+1867,"Central government debt, total (% of GDP)",12,2020 [YR2020],..
+1868,"Central government debt, total (% of GDP)",13,2020 [YR2020],138.955245532848
+1869,"Central government debt, total (% of GDP)",14,2020 [YR2020],..
+1870,"Central government debt, total (% of GDP)",15,2020 [YR2020],22.992021036968
+1871,"Central government debt, total (% of GDP)",16,2020 [YR2020],124.509268439559
+1872,"Inflation, consumer prices (annual %)",1,2020 [YR2020],-0.024995834027731
+1873,"Inflation, consumer prices (annual %)",2,2020 [YR2020],2.41942189457782
+1874,"Inflation, consumer prices (annual %)",3,2020 [YR2020],0.537288023411737
+1875,"Inflation, consumer prices (annual %)",4,2020 [YR2020],3.22093436652514
+1876,"Inflation, consumer prices (annual %)",5,2020 [YR2020],-0.172111865925382
+1877,"Inflation, consumer prices (annual %)",6,2020 [YR2020],-1.13870215393049
+1878,"Inflation, consumer prices (annual %)",7,2020 [YR2020],-0.846087518861798
+1879,"Inflation, consumer prices (annual %)",8,2020 [YR2020],0.477700847097022
+1880,"Inflation, consumer prices (annual %)",9,2020 [YR2020],0.144877925813981
+1881,"Inflation, consumer prices (annual %)",10,2020 [YR2020],0.989486703772491
+1882,"Inflation, consumer prices (annual %)",11,2020 [YR2020],-0.137707259048216
+1883,"Inflation, consumer prices (annual %)",12,2020 [YR2020],1.29520256968185
+1884,"Inflation, consumer prices (annual %)",13,2020 [YR2020],-0.322564616861942
+1885,"Inflation, consumer prices (annual %)",14,2020 [YR2020],0.498304091118424
+1886,"Inflation, consumer prices (annual %)",15,2020 [YR2020],3.38219796948067
+1887,"Inflation, consumer prices (annual %)",16,2020 [YR2020],1.23358439630629
+1888,Gini index,1,2020 [YR2020],32.3
+1889,Gini index,2,2020 [YR2020],37.1
+1890,Gini index,3,2020 [YR2020],32.7
+1891,Gini index,4,2020 [YR2020],36.8
+1892,Gini index,5,2020 [YR2020],..
+1893,Gini index,6,2020 [YR2020],..
+1894,Gini index,7,2020 [YR2020],35
+1895,Gini index,8,2020 [YR2020],30.7
+1896,Gini index,9,2020 [YR2020],32.5
+1897,Gini index,10,2020 [YR2020],32.7
+1898,Gini index,11,2020 [YR2020],35.2
+1899,Gini index,12,2020 [YR2020],28.4
+1900,Gini index,13,2020 [YR2020],34.9
+1901,Gini index,14,2020 [YR2020],28.9
+1902,Gini index,15,2020 [YR2020],33.7
+1903,Gini index,16,2020 [YR2020],40
+1904,Proportion of people living below 50 percent of median income (%),1,2020 [YR2020],13.4
+1905,Proportion of people living below 50 percent of median income (%),2,2020 [YR2020],12.1
+1906,Proportion of people living below 50 percent of median income (%),3,2020 [YR2020],12.3
+1907,Proportion of people living below 50 percent of median income (%),4,2020 [YR2020],14
+1908,Proportion of people living below 50 percent of median income (%),5,2020 [YR2020],..
+1909,Proportion of people living below 50 percent of median income (%),6,2020 [YR2020],..
+1910,Proportion of people living below 50 percent of median income (%),7,2020 [YR2020],10.6
+1911,Proportion of people living below 50 percent of median income (%),8,2020 [YR2020],11.1
+1912,Proportion of people living below 50 percent of median income (%),9,2020 [YR2020],10.9
+1913,Proportion of people living below 50 percent of median income (%),10,2020 [YR2020],11.4
+1914,Proportion of people living below 50 percent of median income (%),11,2020 [YR2020],15.6
+1915,Proportion of people living below 50 percent of median income (%),12,2020 [YR2020],8.7
+1916,Proportion of people living below 50 percent of median income (%),13,2020 [YR2020],16.5
+1917,Proportion of people living below 50 percent of median income (%),14,2020 [YR2020],10.1
+1918,Proportion of people living below 50 percent of median income (%),15,2020 [YR2020],11.6
+1919,Proportion of people living below 50 percent of median income (%),16,2020 [YR2020],17
+1920,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2021 [YR2021],2.808
+1921,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2021 [YR2021],4.55
+1922,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2021 [YR2021],3.639
+1923,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2021 [YR2021],2.383
+1924,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2021 [YR2021],4.64
+1925,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2021 [YR2021],4.64
+1926,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2021 [YR2021],1.215
+1927,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2021 [YR2021],7.871
+1928,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2021 [YR2021],3.594
+1929,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2021 [YR2021],4.864
+1930,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2021 [YR2021],9.497
+1931,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2021 [YR2021],4.359
+1932,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2021 [YR2021],14.914
+1933,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2021 [YR2021],8.803
+1934,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2021 [YR2021],4.749
+1935,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2021 [YR2021],5.349
+1936,GDP growth (annual %),1,2021 [YR2021],3.56419531474475
+1937,GDP growth (annual %),2,2021 [YR2021],8.57038414981781
+1938,GDP growth (annual %),3,2021 [YR2021],4.61296795454287
+1939,GDP growth (annual %),4,2021 [YR2021],2.55372852648131
+1940,GDP growth (annual %),5,2021 [YR2021],10.1410845197192
+1941,GDP growth (annual %),6,2021 [YR2021],3.31534954399166
+1942,GDP growth (annual %),7,2021 [YR2021],1.55858232076893
+1943,GDP growth (annual %),8,2021 [YR2021],6.88233783360239
+1944,GDP growth (annual %),9,2021 [YR2021],3.90999994204108
+1945,GDP growth (annual %),10,2021 [YR2021],8.5431118453255
+1946,GDP growth (annual %),11,2021 [YR2021],8.93106210800055
+1947,GDP growth (annual %),12,2021 [YR2021],4.14314688769197
+1948,GDP growth (annual %),13,2021 [YR2021],6.68314420473001
+1949,GDP growth (annual %),14,2021 [YR2021],5.2258643028773
+1950,GDP growth (annual %),15,2021 [YR2021],5.866491772979
+1951,GDP growth (annual %),16,2021 [YR2021],6.15202247867526
+1952,"Central government debt, total (% of GDP)",1,2021 [YR2021],..
+1953,"Central government debt, total (% of GDP)",2,2021 [YR2021],..
+1954,"Central government debt, total (% of GDP)",3,2021 [YR2021],45.8328934501884
+1955,"Central government debt, total (% of GDP)",4,2021 [YR2021],..
+1956,"Central government debt, total (% of GDP)",5,2021 [YR2021],147.759530258993
+1957,"Central government debt, total (% of GDP)",6,2021 [YR2021],63.2668366732951
+1958,"Central government debt, total (% of GDP)",7,2021 [YR2021],58.5282063695337
+1959,"Central government debt, total (% of GDP)",8,2021 [YR2021],..
+1960,"Central government debt, total (% of GDP)",9,2021 [YR2021],..
+1961,"Central government debt, total (% of GDP)",10,2021 [YR2021],183.804848939919
+1962,"Central government debt, total (% of GDP)",11,2021 [YR2021],..
+1963,"Central government debt, total (% of GDP)",12,2021 [YR2021],..
+1964,"Central government debt, total (% of GDP)",13,2021 [YR2021],132.547539168518
+1965,"Central government debt, total (% of GDP)",14,2021 [YR2021],..
+1966,"Central government debt, total (% of GDP)",15,2021 [YR2021],21.0287512612177
+1967,"Central government debt, total (% of GDP)",16,2021 [YR2021],118.284809538371
+1968,"Inflation, consumer prices (annual %)",1,2021 [YR2021],-0.233352779398263
+1969,"Inflation, consumer prices (annual %)",2,2021 [YR2021],0.981015135544881
+1970,"Inflation, consumer prices (annual %)",3,2021 [YR2021],2.49833333333339
+1971,"Inflation, consumer prices (annual %)",4,2021 [YR2021],1.83471554810461
+1972,"Inflation, consumer prices (annual %)",5,2021 [YR2021],2.31610315765145
+1973,"Inflation, consumer prices (annual %)",6,2021 [YR2021],2.47710241465446
+1974,"Inflation, consumer prices (annual %)",7,2021 [YR2021],1.23104516549814
+1975,"Inflation, consumer prices (annual %)",8,2021 [YR2021],1.64090620368408
+1976,"Inflation, consumer prices (annual %)",9,2021 [YR2021],3.06666666666673
+1977,"Inflation, consumer prices (annual %)",10,2021 [YR2021],2.51837109614213
+1978,"Inflation, consumer prices (annual %)",11,2021 [YR2021],1.87378306224529
+1979,"Inflation, consumer prices (annual %)",12,2021 [YR2021],3.4676759410803
+1980,"Inflation, consumer prices (annual %)",13,2021 [YR2021],3.09304989531805
+1981,"Inflation, consumer prices (annual %)",14,2021 [YR2021],2.16416666666663
+1982,"Inflation, consumer prices (annual %)",15,2021 [YR2021],6.69445891957612
+1983,"Inflation, consumer prices (annual %)",16,2021 [YR2021],4.69785886363742
+1984,Gini index,1,2021 [YR2021],..
+1985,Gini index,2,2021 [YR2021],35.8
+1986,Gini index,3,2021 [YR2021],32.9
+1987,Gini index,4,2021 [YR2021],..
+1988,Gini index,5,2021 [YR2021],..
+1989,Gini index,6,2021 [YR2021],40.7
+1990,Gini index,7,2021 [YR2021],34.9
+1991,Gini index,8,2021 [YR2021],31.5
+1992,Gini index,9,2021 [YR2021],33.6
+1993,Gini index,10,2021 [YR2021],32.4
+1994,Gini index,11,2021 [YR2021],34.8
+1995,Gini index,12,2021 [YR2021],29.1
+1996,Gini index,13,2021 [YR2021],33.9
+1997,Gini index,14,2021 [YR2021],29.8
+1998,Gini index,15,2021 [YR2021],35.1
+1999,Gini index,16,2021 [YR2021],39.7
+2000,Proportion of people living below 50 percent of median income (%),1,2021 [YR2021],..
+2001,Proportion of people living below 50 percent of median income (%),2,2021 [YR2021],11.7
+2002,Proportion of people living below 50 percent of median income (%),3,2021 [YR2021],12.6
+2003,Proportion of people living below 50 percent of median income (%),4,2021 [YR2021],..
+2004,Proportion of people living below 50 percent of median income (%),5,2021 [YR2021],..
+2005,Proportion of people living below 50 percent of median income (%),6,2021 [YR2021],16.5
+2006,Proportion of people living below 50 percent of median income (%),7,2021 [YR2021],10
+2007,Proportion of people living below 50 percent of median income (%),8,2021 [YR2021],12
+2008,Proportion of people living below 50 percent of median income (%),9,2021 [YR2021],11.6
+2009,Proportion of people living below 50 percent of median income (%),10,2021 [YR2021],11.7
+2010,Proportion of people living below 50 percent of median income (%),11,2021 [YR2021],15.3
+2011,Proportion of people living below 50 percent of median income (%),12,2021 [YR2021],8.2
+2012,Proportion of people living below 50 percent of median income (%),13,2021 [YR2021],15.4
+2013,Proportion of people living below 50 percent of median income (%),14,2021 [YR2021],11.1
+2014,Proportion of people living below 50 percent of median income (%),15,2021 [YR2021],13
+2015,Proportion of people living below 50 percent of median income (%),16,2021 [YR2021],15.3
+2016,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2022 [YR2022],2.614
+2017,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2022 [YR2022],4.98
+2018,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2022 [YR2022],2.857
+2019,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2022 [YR2022],1.57
+2020,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2022 [YR2022],3.591
+2021,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2022 [YR2022],3.93
+2022,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2022 [YR2022],0.94
+2023,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2022 [YR2022],7.303
+2024,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2022 [YR2022],3.137
+2025,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2022 [YR2022],3.768
+2026,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2022 [YR2022],8.069
+2027,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2022 [YR2022],3.231
+2028,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2022 [YR2022],13.033
+2029,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2022 [YR2022],7.417
+2030,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2022 [YR2022],3.867
+2031,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2022 [YR2022],3.65
+2032,GDP growth (annual %),1,2022 [YR2022],1.33164750653741
+2033,GDP growth (annual %),2,2022 [YR2022],3.13385438394069
+2034,GDP growth (annual %),3,2022 [YR2022],2.72756456708991
+2035,GDP growth (annual %),4,2022 [YR2022],8.53750041218142
+2036,GDP growth (annual %),5,2022 [YR2022],4.01027884472296
+2037,GDP growth (annual %),6,2022 [YR2022],9.03173723044451
+2038,GDP growth (annual %),7,2022 [YR2022],2.63784213566305
+2039,GDP growth (annual %),8,2022 [YR2022],2.71676264185913
+2040,GDP growth (annual %),9,2022 [YR2022],1.8092581243061
+2041,GDP growth (annual %),10,2022 [YR2022],5.14970388522993
+2042,GDP growth (annual %),11,2022 [YR2022],4.82117669913565
+2043,GDP growth (annual %),12,2022 [YR2022],4.08039770659241
+2044,GDP growth (annual %),13,2022 [YR2022],6.37031712129601
+2045,GDP growth (annual %),14,2022 [YR2022],1.25543620445816
+2046,GDP growth (annual %),15,2022 [YR2022],-1.43537063467896
+2047,GDP growth (annual %),16,2022 [YR2022],2.52421385073222
+2048,"Central government debt, total (% of GDP)",1,2022 [YR2022],..
+2049,"Central government debt, total (% of GDP)",2,2022 [YR2022],..
+2050,"Central government debt, total (% of GDP)",3,2022 [YR2022],47.6110651856141
+2051,"Central government debt, total (% of GDP)",4,2022 [YR2022],..
+2052,"Central government debt, total (% of GDP)",5,2022 [YR2022],152.534986779861
+2053,"Central government debt, total (% of GDP)",6,2022 [YR2022],60.1479261322487
+2054,"Central government debt, total (% of GDP)",7,2022 [YR2022],60.3442670368319
+2055,"Central government debt, total (% of GDP)",8,2022 [YR2022],..
+2056,"Central government debt, total (% of GDP)",9,2022 [YR2022],..
+2057,"Central government debt, total (% of GDP)",10,2022 [YR2022],138.215904304967
+2058,"Central government debt, total (% of GDP)",11,2022 [YR2022],..
+2059,"Central government debt, total (% of GDP)",12,2022 [YR2022],..
+2060,"Central government debt, total (% of GDP)",13,2022 [YR2022],109.021131387118
+2061,"Central government debt, total (% of GDP)",14,2022 [YR2022],..
+2062,"Central government debt, total (% of GDP)",15,2022 [YR2022],19.2810466629119
+2063,"Central government debt, total (% of GDP)",16,2022 [YR2022],112.71753248772
+2064,"Inflation, consumer prices (annual %)",1,2022 [YR2022],2.49770278172254
+2065,"Inflation, consumer prices (annual %)",2,2022 [YR2022],1.9735755573905
+2066,"Inflation, consumer prices (annual %)",3,2022 [YR2022],5.08951365062841
+2067,"Inflation, consumer prices (annual %)",4,2022 [YR2022],3.15650749963111
+2068,"Inflation, consumer prices (annual %)",5,2022 [YR2022],6.13095418919732
+2069,"Inflation, consumer prices (annual %)",6,2022 [YR2022],3.37869862549928
+2070,"Inflation, consumer prices (annual %)",7,2022 [YR2022],6.07589952842432
+2071,"Inflation, consumer prices (annual %)",8,2022 [YR2022],5.22294079215231
+2072,"Inflation, consumer prices (annual %)",9,2022 [YR2022],6.87257438551096
+2073,"Inflation, consumer prices (annual %)",10,2022 [YR2022],7.92204883147902
+2074,"Inflation, consumer prices (annual %)",11,2022 [YR2022],8.20128981173605
+2075,"Inflation, consumer prices (annual %)",12,2022 [YR2022],5.77360355907063
+2076,"Inflation, consumer prices (annual %)",13,2022 [YR2022],8.39041940748896
+2077,"Inflation, consumer prices (annual %)",14,2022 [YR2022],8.36888341476543
+2078,"Inflation, consumer prices (annual %)",15,2022 [YR2022],13.7436797398231
+2079,"Inflation, consumer prices (annual %)",16,2022 [YR2022],8.00279982052121
+2080,Gini index,1,2022 [YR2022],..
+2081,Gini index,2,2022 [YR2022],36
+2082,Gini index,3,2022 [YR2022],..
+2083,Gini index,4,2022 [YR2022],36.1
+2084,Gini index,5,2022 [YR2022],..
+2085,Gini index,6,2022 [YR2022],..
+2086,Gini index,7,2022 [YR2022],34.3
+2087,Gini index,8,2022 [YR2022],31.2
+2088,Gini index,9,2022 [YR2022],33.7
+2089,Gini index,10,2022 [YR2022],..
+2090,Gini index,11,2022 [YR2022],33.7
+2091,Gini index,12,2022 [YR2022],26.9
+2092,Gini index,13,2022 [YR2022],33.6
+2093,Gini index,14,2022 [YR2022],31.6
+2094,Gini index,15,2022 [YR2022],33.9
+2095,Gini index,16,2022 [YR2022],41.7
+2096,Proportion of people living below 50 percent of median income (%),1,2022 [YR2022],..
+2097,Proportion of people living below 50 percent of median income (%),2,2022 [YR2022],12.2
+2098,Proportion of people living below 50 percent of median income (%),3,2022 [YR2022],..
+2099,Proportion of people living below 50 percent of median income (%),4,2022 [YR2022],13.4
+2100,Proportion of people living below 50 percent of median income (%),5,2022 [YR2022],..
+2101,Proportion of people living below 50 percent of median income (%),6,2022 [YR2022],..
+2102,Proportion of people living below 50 percent of median income (%),7,2022 [YR2022],10.3
+2103,Proportion of people living below 50 percent of median income (%),8,2022 [YR2022],12
+2104,Proportion of people living below 50 percent of median income (%),9,2022 [YR2022],12.5
+2105,Proportion of people living below 50 percent of median income (%),10,2022 [YR2022],..
+2106,Proportion of people living below 50 percent of median income (%),11,2022 [YR2022],14.6
+2107,Proportion of people living below 50 percent of median income (%),12,2022 [YR2022],7.2
+2108,Proportion of people living below 50 percent of median income (%),13,2022 [YR2022],14.6
+2109,Proportion of people living below 50 percent of median income (%),14,2022 [YR2022],11.4
+2110,Proportion of people living below 50 percent of median income (%),15,2022 [YR2022],11
+2111,Proportion of people living below 50 percent of median income (%),16,2022 [YR2022],18.3
+2112,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2023 [YR2023],2.6
+2113,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2023 [YR2023],4.67
+2114,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2023 [YR2023],2.675
+2115,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2023 [YR2023],1.645
+2116,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2023 [YR2023],3.444
+2117,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2023 [YR2023],3.858
+2118,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2023 [YR2023],0.733
+2119,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2023 [YR2023],7.335
+2120,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2023 [YR2023],3.071
+2121,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2023 [YR2023],4.025
+2122,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2023 [YR2023],7.627
+2123,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2023 [YR2023],3.574
+2124,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2023 [YR2023],12.179
+2125,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2023 [YR2023],7.611
+2126,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2023 [YR2023],3.076
+2127,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2023 [YR2023],3.638
+2128,GDP growth (annual %),1,2023 [YR2023],0.720785304749811
+2129,GDP growth (annual %),2,2023 [YR2023],5.41600334492955
+2130,GDP growth (annual %),3,2023 [YR2023],1.58301467403629
+2131,GDP growth (annual %),4,2023 [YR2023],4.97865959483225
+2132,GDP growth (annual %),5,2023 [YR2023],1.45026775889565
+2133,GDP growth (annual %),6,2023 [YR2023],3.5370638041057
+2134,GDP growth (annual %),7,2023 [YR2023],2.24883437970568
+2135,GDP growth (annual %),8,2023 [YR2023],1.43921494437743
+2136,GDP growth (annual %),9,2023 [YR2023],-0.869647578573321
+2137,GDP growth (annual %),10,2023 [YR2023],0.271650048355255
+2138,GDP growth (annual %),11,2023 [YR2023],0.922796543670316
+2139,GDP growth (annual %),12,2023 [YR2023],0.352695581319765
+2140,GDP growth (annual %),13,2023 [YR2023],2.46085796805582
+2141,GDP growth (annual %),14,2023 [YR2023],-0.204061304891439
+2142,GDP growth (annual %),15,2023 [YR2023],4.06661395813023
+2143,GDP growth (annual %),16,2023 [YR2023],2.93436322440155
+2144,"Central government debt, total (% of GDP)",1,2023 [YR2023],..
+2145,"Central government debt, total (% of GDP)",2,2023 [YR2023],..
+2146,"Central government debt, total (% of GDP)",3,2023 [YR2023],48.5543799702909
+2147,"Central government debt, total (% of GDP)",4,2023 [YR2023],..
+2148,"Central government debt, total (% of GDP)",5,2023 [YR2023],173.624161872218
+2149,"Central government debt, total (% of GDP)",6,2023 [YR2023],64.2816241956596
+2150,"Central government debt, total (% of GDP)",7,2023 [YR2023],60.993475200655
+2151,"Central government debt, total (% of GDP)",8,2023 [YR2023],..
+2152,"Central government debt, total (% of GDP)",9,2023 [YR2023],..
+2153,"Central government debt, total (% of GDP)",10,2023 [YR2023],136.142431919028
+2154,"Central government debt, total (% of GDP)",11,2023 [YR2023],..
+2155,"Central government debt, total (% of GDP)",12,2023 [YR2023],..
+2156,"Central government debt, total (% of GDP)",13,2023 [YR2023],107.392919205272
+2157,"Central government debt, total (% of GDP)",14,2023 [YR2023],..
+2158,"Central government debt, total (% of GDP)",15,2023 [YR2023],18.7312788319232
+2159,"Central government debt, total (% of GDP)",16,2023 [YR2023],114.73985759209
+2160,"Inflation, consumer prices (annual %)",1,2023 [YR2023],3.26813365933163
+2161,"Inflation, consumer prices (annual %)",2,2023 [YR2023],0.23483682889305
+2162,"Inflation, consumer prices (annual %)",3,2023 [YR2023],3.5974562502901
+2163,"Inflation, consumer prices (annual %)",4,2023 [YR2023],3.25289282667662
+2164,"Inflation, consumer prices (annual %)",5,2023 [YR2023],4.83372362825797
+2165,"Inflation, consumer prices (annual %)",6,2023 [YR2023],2.48886560125753
+2166,"Inflation, consumer prices (annual %)",7,2023 [YR2023],1.22908986612448
+2167,"Inflation, consumer prices (annual %)",8,2023 [YR2023],4.88000215969119
+2168,"Inflation, consumer prices (annual %)",9,2023 [YR2023],5.94643667725823
+2169,"Inflation, consumer prices (annual %)",10,2023 [YR2023],6.79396706793962
+2170,"Inflation, consumer prices (annual %)",11,2023 [YR2023],5.62219292216457
+2171,"Inflation, consumer prices (annual %)",12,2023 [YR2023],5.49584073277878
+2172,"Inflation, consumer prices (annual %)",13,2023 [YR2023],3.53247287667898
+2173,"Inflation, consumer prices (annual %)",14,2023 [YR2023],8.54678338363812
+2174,"Inflation, consumer prices (annual %)",15,2023 [YR2023],5.86571931748967
+2175,"Inflation, consumer prices (annual %)",16,2023 [YR2023],4.11633838374487
+2176,Gini index,1,2023 [YR2023],..
+2177,Gini index,2,2023 [YR2023],..
+2178,Gini index,3,2023 [YR2023],..
+2179,Gini index,4,2023 [YR2023],..
+2180,Gini index,5,2023 [YR2023],..
+2181,Gini index,6,2023 [YR2023],..
+2182,Gini index,7,2023 [YR2023],33.5
+2183,Gini index,8,2023 [YR2023],31.8
+2184,Gini index,9,2023 [YR2023],..
+2185,Gini index,10,2023 [YR2023],..
+2186,Gini index,11,2023 [YR2023],34.3
+2187,Gini index,12,2023 [YR2023],26.5
+2188,Gini index,13,2023 [YR2023],33.4
+2189,Gini index,14,2023 [YR2023],29.3
+2190,Gini index,15,2023 [YR2023],33
+2191,Gini index,16,2023 [YR2023],41.8
+2192,Proportion of people living below 50 percent of median income (%),1,2023 [YR2023],..
+2193,Proportion of people living below 50 percent of median income (%),2,2023 [YR2023],..
+2194,Proportion of people living below 50 percent of median income (%),3,2023 [YR2023],..
+2195,Proportion of people living below 50 percent of median income (%),4,2023 [YR2023],..
+2196,Proportion of people living below 50 percent of median income (%),5,2023 [YR2023],..
+2197,Proportion of people living below 50 percent of median income (%),6,2023 [YR2023],..
+2198,Proportion of people living below 50 percent of median income (%),7,2023 [YR2023],9.4
+2199,Proportion of people living below 50 percent of median income (%),8,2023 [YR2023],11.9
+2200,Proportion of people living below 50 percent of median income (%),9,2023 [YR2023],..
+2201,Proportion of people living below 50 percent of median income (%),10,2023 [YR2023],..
+2202,Proportion of people living below 50 percent of median income (%),11,2023 [YR2023],14.5
+2203,Proportion of people living below 50 percent of median income (%),12,2023 [YR2023],7.6
+2204,Proportion of people living below 50 percent of median income (%),13,2023 [YR2023],14.9
+2205,Proportion of people living below 50 percent of median income (%),14,2023 [YR2023],11
+2206,Proportion of people living below 50 percent of median income (%),15,2023 [YR2023],10.8
+2207,Proportion of people living below 50 percent of median income (%),16,2023 [YR2023],18.6
+2208,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2024 [YR2024],2.5
+2209,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2024 [YR2024],4.59
+2210,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2024 [YR2024],2.784
+2211,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2024 [YR2024],1.602
+2212,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2024 [YR2024],2.737
+2213,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2024 [YR2024],3.846
+2214,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2024 [YR2024],0.781
+2215,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2024 [YR2024],7.4
+2216,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2024 [YR2024],3.4
+2217,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2024 [YR2024],4.361
+2218,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2024 [YR2024],6.5
+2219,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2024 [YR2024],4
+2220,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2024 [YR2024],11.4
+2221,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2024 [YR2024],8.4
+2222,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2024 [YR2024],2.43
+2223,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2024 [YR2024],4.022
+2224,GDP growth (annual %),1,2024 [YR2024],-0.240084236041696
+2225,GDP growth (annual %),2,2024 [YR2024],4.95830378788091
+2226,GDP growth (annual %),3,2024 [YR2024],2.00361101838986
+2227,GDP growth (annual %),4,2024 [YR2024],7.03955197123018
+2228,GDP growth (annual %),5,2024 [YR2024],5.3435120192366
+2229,GDP growth (annual %),6,2024 [YR2024],5.10545921024041
+2230,GDP growth (annual %),7,2024 [YR2024],2.94859986593323
+2231,GDP growth (annual %),8,2024 [YR2024],1.19046798275883
+2232,GDP growth (annual %),9,2024 [YR2024],-0.495851897260366
+2233,GDP growth (annual %),10,2024 [YR2024],1.08027716858781
+2234,GDP growth (annual %),11,2024 [YR2024],0.783039135276795
+2235,GDP growth (annual %),12,2024 [YR2024],1.42372134524737
+2236,GDP growth (annual %),13,2024 [YR2024],3.45525405630191
+2237,GDP growth (annual %),14,2024 [YR2024],1.01779633304398
+2238,GDP growth (annual %),15,2024 [YR2024],4.92167966203073
+2239,GDP growth (annual %),16,2024 [YR2024],2.79318715363841
+2240,"Central government debt, total (% of GDP)",1,2024 [YR2024],..
+2241,"Central government debt, total (% of GDP)",2,2024 [YR2024],..
+2242,"Central government debt, total (% of GDP)",3,2024 [YR2024],47.8141426119509
+2243,"Central government debt, total (% of GDP)",4,2024 [YR2024],..
+2244,"Central government debt, total (% of GDP)",5,2024 [YR2024],167.799832036767
+2245,"Central government debt, total (% of GDP)",6,2024 [YR2024],64.566529006102
+2246,"Central government debt, total (% of GDP)",7,2024 [YR2024],61.861415782411
+2247,"Central government debt, total (% of GDP)",8,2024 [YR2024],..
+2248,"Central government debt, total (% of GDP)",9,2024 [YR2024],..
+2249,"Central government debt, total (% of GDP)",10,2024 [YR2024],130.735888365813
+2250,"Central government debt, total (% of GDP)",11,2024 [YR2024],..
+2251,"Central government debt, total (% of GDP)",12,2024 [YR2024],..
+2252,"Central government debt, total (% of GDP)",13,2024 [YR2024],105.639074777338
+2253,"Central government debt, total (% of GDP)",14,2024 [YR2024],..
+2254,"Central government debt, total (% of GDP)",15,2024 [YR2024],17.8500676833114
+2255,"Central government debt, total (% of GDP)",16,2024 [YR2024],115.788609964778
+2256,"Inflation, consumer prices (annual %)",1,2024 [YR2024],2.7385368163524
+2257,"Inflation, consumer prices (annual %)",2,2024 [YR2024],0.218128938439177
+2258,"Inflation, consumer prices (annual %)",3,2024 [YR2024],2.32174328643542
+2259,"Inflation, consumer prices (annual %)",4,2024 [YR2024],3.62109273885843
+2260,"Inflation, consumer prices (annual %)",5,2024 [YR2024],2.38951123595017
+2261,"Inflation, consumer prices (annual %)",6,2024 [YR2024],1.834100204499
+2262,"Inflation, consumer prices (annual %)",7,2024 [YR2024],0.398333333333422
+2263,"Inflation, consumer prices (annual %)",8,2024 [YR2024],1.99742599742599
+2264,"Inflation, consumer prices (annual %)",9,2024 [YR2024],2.2564981433876
+2265,"Inflation, consumer prices (annual %)",10,2024 [YR2024],3.2715729463592
+2266,"Inflation, consumer prices (annual %)",11,2024 [YR2024],0.982375111637719
+2267,"Inflation, consumer prices (annual %)",12,2024 [YR2024],3.18065030566136
+2268,"Inflation, consumer prices (annual %)",13,2024 [YR2024],2.77406987275873
+2269,"Inflation, consumer prices (annual %)",14,2024 [YR2024],2.83679582836375
+2270,"Inflation, consumer prices (annual %)",15,2024 [YR2024],8.43486410496723
+2271,"Inflation, consumer prices (annual %)",16,2024 [YR2024],2.94952520485207
+2272,Gini index,1,2024 [YR2024],..
+2273,Gini index,2,2024 [YR2024],..
+2274,Gini index,3,2024 [YR2024],..
+2275,Gini index,4,2024 [YR2024],..
+2276,Gini index,5,2024 [YR2024],..
+2277,Gini index,6,2024 [YR2024],..
+2278,Gini index,7,2024 [YR2024],33.3
+2279,Gini index,8,2024 [YR2024],..
+2280,Gini index,9,2024 [YR2024],..
+2281,Gini index,10,2024 [YR2024],..
+2282,Gini index,11,2024 [YR2024],..
+2283,Gini index,12,2024 [YR2024],..
+2284,Gini index,13,2024 [YR2024],..
+2285,Gini index,14,2024 [YR2024],..
+2286,Gini index,15,2024 [YR2024],..
+2287,Gini index,16,2024 [YR2024],41.8
+2288,Proportion of people living below 50 percent of median income (%),1,2024 [YR2024],..
+2289,Proportion of people living below 50 percent of median income (%),2,2024 [YR2024],..
+2290,Proportion of people living below 50 percent of median income (%),3,2024 [YR2024],..
+2291,Proportion of people living below 50 percent of median income (%),4,2024 [YR2024],..
+2292,Proportion of people living below 50 percent of median income (%),5,2024 [YR2024],..
+2293,Proportion of people living below 50 percent of median income (%),6,2024 [YR2024],..
+2294,Proportion of people living below 50 percent of median income (%),7,2024 [YR2024],9.6
+2295,Proportion of people living below 50 percent of median income (%),8,2024 [YR2024],..
+2296,Proportion of people living below 50 percent of median income (%),9,2024 [YR2024],..
+2297,Proportion of people living below 50 percent of median income (%),10,2024 [YR2024],..
+2298,Proportion of people living below 50 percent of median income (%),11,2024 [YR2024],..
+2299,Proportion of people living below 50 percent of median income (%),12,2024 [YR2024],..
+2300,Proportion of people living below 50 percent of median income (%),13,2024 [YR2024],..
+2301,Proportion of people living below 50 percent of median income (%),14,2024 [YR2024],..
+2302,Proportion of people living below 50 percent of median income (%),15,2024 [YR2024],..
+2303,Proportion of people living below 50 percent of median income (%),16,2024 [YR2024],18.9
+2304,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1,2025 [YR2025],2.451
+2305,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2,2025 [YR2025],4.615
+2306,"Unemployment, total (% of total labor force) (modeled ILO estimate)",3,2025 [YR2025],2.683
+2307,"Unemployment, total (% of total labor force) (modeled ILO estimate)",4,2025 [YR2025],1.523
+2308,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5,2025 [YR2025],2.818
+2309,"Unemployment, total (% of total labor force) (modeled ILO estimate)",6,2025 [YR2025],3.764
+2310,"Unemployment, total (% of total labor force) (modeled ILO estimate)",7,2025 [YR2025],0.781
+2311,"Unemployment, total (% of total labor force) (modeled ILO estimate)",8,2025 [YR2025],7.542
+2312,"Unemployment, total (% of total labor force) (modeled ILO estimate)",9,2025 [YR2025],3.711
+2313,"Unemployment, total (% of total labor force) (modeled ILO estimate)",10,2025 [YR2025],4.746
+2314,"Unemployment, total (% of total labor force) (modeled ILO estimate)",11,2025 [YR2025],6.391
+2315,"Unemployment, total (% of total labor force) (modeled ILO estimate)",12,2025 [YR2025],4.637
+2316,"Unemployment, total (% of total labor force) (modeled ILO estimate)",13,2025 [YR2025],10.376
+2317,"Unemployment, total (% of total labor force) (modeled ILO estimate)",14,2025 [YR2025],8.694
+2318,"Unemployment, total (% of total labor force) (modeled ILO estimate)",15,2025 [YR2025],2.133
+2319,"Unemployment, total (% of total labor force) (modeled ILO estimate)",16,2025 [YR2025],4.198
+2320,GDP growth (annual %),1,2025 [YR2025],1.19311288444599
+2321,GDP growth (annual %),2,2025 [YR2025],4.95994886240992
+2322,GDP growth (annual %),3,2025 [YR2025],1.00701840291242
+2323,GDP growth (annual %),4,2025 [YR2025],8.01882998978245
+2324,GDP growth (annual %),5,2025 [YR2025],5.02588199508003
+2325,GDP growth (annual %),6,2025 [YR2025],5.17127082911057
+2326,GDP growth (annual %),7,2025 [YR2025],2.44247444990198
+2327,GDP growth (annual %),8,2025 [YR2025],0.840949955479587
+2328,GDP growth (annual %),9,2025 [YR2025],0.239578342117881
+2329,GDP growth (annual %),10,2025 [YR2025],1.38844207858726
+2330,GDP growth (annual %),11,2025 [YR2025],0.539583636778445
+2331,GDP growth (annual %),12,2025 [YR2025],1.08528185031417
+2332,GDP growth (annual %),13,2025 [YR2025],2.82495400578509
+2333,GDP growth (annual %),14,2025 [YR2025],1.54316373266217
+2334,GDP growth (annual %),15,2025 [YR2025],1.00117656925738
+2335,GDP growth (annual %),16,2025 [YR2025],2.16138195623856
+2336,"Central government debt, total (% of GDP)",1,2025 [YR2025],..
+2337,"Central government debt, total (% of GDP)",2,2025 [YR2025],..
+2338,"Central government debt, total (% of GDP)",3,2025 [YR2025],..
+2339,"Central government debt, total (% of GDP)",4,2025 [YR2025],..
+2340,"Central government debt, total (% of GDP)",5,2025 [YR2025],..
+2341,"Central government debt, total (% of GDP)",6,2025 [YR2025],..
+2342,"Central government debt, total (% of GDP)",7,2025 [YR2025],..
+2343,"Central government debt, total (% of GDP)",8,2025 [YR2025],..
+2344,"Central government debt, total (% of GDP)",9,2025 [YR2025],..
+2345,"Central government debt, total (% of GDP)",10,2025 [YR2025],..
+2346,"Central government debt, total (% of GDP)",11,2025 [YR2025],..
+2347,"Central government debt, total (% of GDP)",12,2025 [YR2025],..
+2348,"Central government debt, total (% of GDP)",13,2025 [YR2025],..
+2349,"Central government debt, total (% of GDP)",14,2025 [YR2025],..
+2350,"Central government debt, total (% of GDP)",15,2025 [YR2025],..
+2351,"Central government debt, total (% of GDP)",16,2025 [YR2025],..
+2352,"Inflation, consumer prices (annual %)",1,2025 [YR2025],3.17253034260247
+2353,"Inflation, consumer prices (annual %)",2,2025 [YR2025],0.0595646916565402
+2354,"Inflation, consumer prices (annual %)",3,2025 [YR2025],2.12309421458659
+2355,"Inflation, consumer prices (annual %)",4,2025 [YR2025],3.30999314219739
+2356,"Inflation, consumer prices (annual %)",5,2025 [YR2025],0.902998495002676
+2357,"Inflation, consumer prices (annual %)",6,2025 [YR2025],1.38060872293691
+2358,"Inflation, consumer prices (annual %)",7,2025 [YR2025],-0.133634356480206
+2359,"Inflation, consumer prices (annual %)",8,2025 [YR2025],0.943824761520197
+2360,"Inflation, consumer prices (annual %)",9,2025 [YR2025],2.17178770949721
+2361,"Inflation, consumer prices (annual %)",10,2025 [YR2025],3.88306881625999
+2362,"Inflation, consumer prices (annual %)",11,2025 [YR2025],1.5316735709312
+2363,"Inflation, consumer prices (annual %)",12,2025 [YR2025],3.03967027305512
+2364,"Inflation, consumer prices (annual %)",13,2025 [YR2025],2.67326741144651
+2365,"Inflation, consumer prices (annual %)",14,2025 [YR2025],0.679015259300199
+2366,"Inflation, consumer prices (annual %)",15,2025 [YR2025],8.71986939402666
+2367,"Inflation, consumer prices (annual %)",16,2025 [YR2025],..
+2368,Gini index,1,2025 [YR2025],..
+2369,Gini index,2,2025 [YR2025],..
+2370,Gini index,3,2025 [YR2025],..
+2371,Gini index,4,2025 [YR2025],..
+2372,Gini index,5,2025 [YR2025],..
+2373,Gini index,6,2025 [YR2025],..
+2374,Gini index,7,2025 [YR2025],..
+2375,Gini index,8,2025 [YR2025],..
+2376,Gini index,9,2025 [YR2025],..
+2377,Gini index,10,2025 [YR2025],..
+2378,Gini index,11,2025 [YR2025],..
+2379,Gini index,12,2025 [YR2025],..
+2380,Gini index,13,2025 [YR2025],..
+2381,Gini index,14,2025 [YR2025],..
+2382,Gini index,15,2025 [YR2025],..
+2383,Gini index,16,2025 [YR2025],..
+2384,Proportion of people living below 50 percent of median income (%),1,2025 [YR2025],..
+2385,Proportion of people living below 50 percent of median income (%),2,2025 [YR2025],..
+2386,Proportion of people living below 50 percent of median income (%),3,2025 [YR2025],..
+2387,Proportion of people living below 50 percent of median income (%),4,2025 [YR2025],..
+2388,Proportion of people living below 50 percent of median income (%),5,2025 [YR2025],..
+2389,Proportion of people living below 50 percent of median income (%),6,2025 [YR2025],..
+2390,Proportion of people living below 50 percent of median income (%),7,2025 [YR2025],..
+2391,Proportion of people living below 50 percent of median income (%),8,2025 [YR2025],..
+2392,Proportion of people living below 50 percent of median income (%),9,2025 [YR2025],..
+2393,Proportion of people living below 50 percent of median income (%),10,2025 [YR2025],..
+2394,Proportion of people living below 50 percent of median income (%),11,2025 [YR2025],..
+2395,Proportion of people living below 50 percent of median income (%),12,2025 [YR2025],..
+2396,Proportion of people living below 50 percent of median income (%),13,2025 [YR2025],..
+2397,Proportion of people living below 50 percent of median income (%),14,2025 [YR2025],..
+2398,Proportion of people living below 50 percent of median income (%),15,2025 [YR2025],..
+2399,Proportion of people living below 50 percent of median income (%),16,2025 [YR2025],..
